@@ -1,0 +1,115 @@
+2017-05-05 22:43:30,015 INFO 34415 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-05 22:43:30,027 INFO 34415 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-05 22:43:30,068 INFO 34415 [ClusterClient:Watcher] has seized port 50834, and serves as leader client.
+2017-05-05 22:43:30,070 INFO 34415 [egg-watcher:agent] watcher start success
+2017-05-05 22:43:30,521 INFO 34415 [Leader:Watcher] socket connected, port: 50836
+2017-05-05 22:44:15,218 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:44:56,156 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:44:56,363 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js change
+2017-05-05 22:44:56,825 INFO 34415 [Leader:Watcher] socket connected, port: 50865
+2017-05-05 22:46:40,239 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:48:13,699 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js change
+2017-05-05 22:48:13,494 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:48:14,153 INFO 34415 [Leader:Watcher] socket connected, port: 51027
+2017-05-05 22:49:47,711 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/config/plugin.js change
+2017-05-05 22:49:47,505 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:49:48,186 INFO 34415 [Leader:Watcher] socket connected, port: 51082
+2017-05-05 22:52:56,203 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:53:16,949 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js change
+2017-05-05 22:53:16,744 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:53:17,408 INFO 34415 [Leader:Watcher] socket connected, port: 51212
+2017-05-05 22:53:22,445 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js change
+2017-05-05 22:53:22,241 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:53:22,912 INFO 34415 [Leader:Watcher] socket connected, port: 51217
+2017-05-05 22:53:33,105 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js change
+2017-05-05 22:53:32,905 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:53:33,573 INFO 34415 [Leader:Watcher] socket connected, port: 51223
+2017-05-05 22:53:40,261 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js change
+2017-05-05 22:53:40,059 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:53:40,739 INFO 34415 [Leader:Watcher] socket connected, port: 51227
+2017-05-05 22:53:50,593 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:53:50,797 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/config/plugin.js change
+2017-05-05 22:53:51,246 INFO 34415 [Leader:Watcher] socket connected, port: 51231
+2017-05-05 22:53:58,500 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js change
+2017-05-05 22:53:58,297 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:53:58,970 INFO 34415 [Leader:Watcher] socket connected, port: 51234
+2017-05-05 22:54:06,387 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js change
+2017-05-05 22:54:06,185 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:54:06,863 INFO 34415 [Leader:Watcher] socket connected, port: 51240
+2017-05-05 22:54:13,600 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:54:26,728 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:54:26,931 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js change
+2017-05-05 22:54:27,396 INFO 34415 [Leader:Watcher] socket connected, port: 51251
+2017-05-05 22:54:50,709 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:54:50,910 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/config/config.default.js change
+2017-05-05 22:54:51,354 INFO 34415 [Leader:Watcher] socket connected, port: 51260
+2017-05-05 22:54:54,845 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:54:55,055 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/config/config.default.js change
+2017-05-05 22:54:55,520 INFO 34415 [Leader:Watcher] socket connected, port: 51262
+2017-05-05 22:55:19,358 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js change
+2017-05-05 22:55:19,153 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:55:19,819 INFO 34415 [Leader:Watcher] socket connected, port: 51271
+2017-05-05 22:55:44,752 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js change
+2017-05-05 22:55:44,548 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:55:45,225 INFO 34415 [Leader:Watcher] socket connected, port: 51280
+2017-05-05 22:57:24,167 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:58:20,972 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 22:59:58,436 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:13:30,825 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:17:47,765 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/config/config.default.js change
+2017-05-05 23:17:47,563 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:17:48,280 INFO 34415 [Leader:Watcher] socket connected, port: 51886
+2017-05-05 23:17:55,365 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/config/config.default.js change
+2017-05-05 23:17:55,161 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:17:55,849 INFO 34415 [Leader:Watcher] socket connected, port: 51893
+2017-05-05 23:17:59,669 WARN 34415 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/config/config.default.js change
+2017-05-05 23:17:59,464 INFO 34415 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:18:00,116 INFO 34415 [Leader:Watcher] socket connected, port: 51896
+2017-05-05 23:21:43,832 INFO 34702 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-05 23:21:43,846 INFO 34702 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-05 23:21:43,890 INFO 34702 [ClusterClient:Watcher] has seized port 51977, and serves as leader client.
+2017-05-05 23:21:43,892 INFO 34702 [egg-watcher:agent] watcher start success
+2017-05-05 23:21:44,375 INFO 34702 [Leader:Watcher] socket connected, port: 51979
+2017-05-05 23:22:34,895 INFO 34702 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:22:35,100 WARN 34702 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js change
+2017-05-05 23:22:35,551 INFO 34702 [Leader:Watcher] socket connected, port: 51990
+2017-05-05 23:22:50,541 INFO 34702 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:22:54,456 INFO 34702 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:23:00,314 INFO 34702 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:23:01,921 INFO 34702 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:23:17,923 INFO 34702 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:23:18,123 WARN 34702 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/news.js rename
+2017-05-05 23:23:18,575 INFO 34702 [Leader:Watcher] socket connected, port: 51997
+2017-05-05 23:23:40,404 WARN 34702 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/news.js change
+2017-05-05 23:23:40,200 INFO 34702 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:23:40,873 INFO 34702 [Leader:Watcher] socket connected, port: 52003
+2017-05-05 23:23:57,128 INFO 34702 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:23:57,331 WARN 34702 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-05 23:23:57,792 INFO 34702 [Leader:Watcher] socket connected, port: 52007
+2017-05-05 23:24:24,802 INFO 34702 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:24:24,802 INFO 34702 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:24:35,255 WARN 34702 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/news.js change
+2017-05-05 23:24:35,050 INFO 34702 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:24:35,710 INFO 34702 [Leader:Watcher] socket connected, port: 52018
+2017-05-05 23:29:10,488 WARN 34702 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/config/plugin.js change
+2017-05-05 23:29:10,283 INFO 34702 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:29:10,949 INFO 34702 [Leader:Watcher] socket connected, port: 52240
+2017-05-05 23:30:50,230 WARN 34702 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/config/config.default.js change
+2017-05-05 23:30:50,026 INFO 34702 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:30:50,692 INFO 34702 [Leader:Watcher] socket connected, port: 52277
+2017-05-05 23:33:05,768 INFO 34702 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:33:36,219 WARN 34702 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js rename
+2017-05-05 23:33:36,016 INFO 34702 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:55:10,903 INFO 35050 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-05 23:55:10,915 INFO 35050 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-05 23:55:10,959 INFO 35050 [ClusterClient:Watcher] has seized port 54295, and serves as leader client.
+2017-05-05 23:55:10,961 INFO 35050 [egg-watcher:agent] watcher start success
+2017-05-05 23:55:11,410 INFO 35050 [Leader:Watcher] socket connected, port: 54297
+2017-05-05 23:55:26,819 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/index.js change
+2017-05-05 23:55:26,613 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-05 23:55:27,261 INFO 35050 [Leader:Watcher] socket connected, port: 54303
+2017-05-06 00:05:38,481 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:05:56,018 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:05:59,365 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:06:22,477 INFO 35050 [egg-schedule] send message: sendRandom egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-06 00:06:22,485 INFO 35050 [egg-schedule] send message: sendRandom egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js

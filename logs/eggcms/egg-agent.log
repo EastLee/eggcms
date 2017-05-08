@@ -1,0 +1,1607 @@
+2017-05-06 00:06:22,489 INFO 35050 [egg-logrotator] agent logger reload: got log-reload message
+2017-05-06 00:09:07,210 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:09:49,689 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:10:09,473 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:10:22,300 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:11:47,420 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:12:01,530 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:13:02,381 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:13:32,131 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:16:02,956 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:21:30,778 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:21:37,389 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:21:37,390 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:22:42,779 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:23:44,503 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:23:44,504 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:23:44,554 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:47:59,137 INFO 35050 [Leader:Watcher] socket connected, port: 58527
+2017-05-06 00:50:04,561 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:50:39,922 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:51:03,595 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:51:13,214 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:51:46,058 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:54:05,137 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:54:31,013 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:54:48,739 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 00:57:29,790 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:04:12,013 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:04:23,410 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:04:42,645 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:05:06,118 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:07:40,895 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:09:56,993 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:10:55,176 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:11:40,572 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:12:25,758 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:13:25,875 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:13:44,527 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:14:04,676 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:14:46,408 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:15:15,708 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:15:21,001 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 01:22:57,704 INFO 35050 [Leader:Watcher] socket connected, port: 60963
+2017-05-06 01:33:05,388 INFO 35050 [Leader:Watcher] socket connected, port: 60971
+2017-05-06 01:43:22,046 INFO 35050 [Leader:Watcher] socket connected, port: 61001
+2017-05-06 02:07:34,006 INFO 35050 [Leader:Watcher] socket connected, port: 61012
+2017-05-06 02:17:49,920 INFO 35050 [Leader:Watcher] socket connected, port: 61146
+2017-05-06 02:38:35,182 INFO 35050 [Leader:Watcher] socket connected, port: 61175
+2017-05-06 03:06:45,238 INFO 35050 [Leader:Watcher] socket connected, port: 61239
+2017-05-06 03:17:00,273 INFO 35050 [Leader:Watcher] socket connected, port: 61275
+2017-05-06 03:27:05,569 INFO 35050 [Leader:Watcher] socket connected, port: 61296
+2017-05-06 03:37:21,628 INFO 35050 [Leader:Watcher] socket connected, port: 61361
+2017-05-06 03:47:27,931 INFO 35050 [Leader:Watcher] socket connected, port: 61401
+2017-05-06 03:57:32,933 INFO 35050 [Leader:Watcher] socket connected, port: 61420
+2017-05-06 04:07:48,946 INFO 35050 [Leader:Watcher] socket connected, port: 61467
+2017-05-06 04:17:53,952 INFO 35050 [Leader:Watcher] socket connected, port: 61489
+2017-05-06 04:28:00,257 INFO 35050 [Leader:Watcher] socket connected, port: 61516
+2017-05-06 04:38:16,285 INFO 35050 [Leader:Watcher] socket connected, port: 61548
+2017-05-06 04:48:21,313 INFO 35050 [Leader:Watcher] socket connected, port: 61573
+2017-05-06 04:58:27,379 INFO 35050 [Leader:Watcher] socket connected, port: 61597
+2017-05-06 05:08:34,006 INFO 35050 [Leader:Watcher] socket connected, port: 61614
+2017-05-06 05:18:49,071 INFO 35050 [Leader:Watcher] socket connected, port: 61659
+2017-05-06 05:28:56,004 INFO 35050 [Leader:Watcher] socket connected, port: 61674
+2017-05-06 05:39:12,082 INFO 35050 [Leader:Watcher] socket connected, port: 61726
+2017-05-06 05:49:17,098 INFO 35050 [Leader:Watcher] socket connected, port: 61754
+2017-05-06 06:09:39,168 INFO 35050 [Leader:Watcher] socket connected, port: 61825
+2017-05-06 06:19:45,005 INFO 35050 [Leader:Watcher] socket connected, port: 61838
+2017-05-06 06:30:01,088 INFO 35050 [Leader:Watcher] socket connected, port: 61887
+2017-05-06 06:40:07,403 INFO 35050 [Leader:Watcher] socket connected, port: 61914
+2017-05-06 06:50:12,432 INFO 35050 [Leader:Watcher] socket connected, port: 61929
+2017-05-06 07:00:28,494 INFO 35050 [Leader:Watcher] socket connected, port: 61977
+2017-05-06 07:10:34,491 INFO 35050 [Leader:Watcher] socket connected, port: 62000
+2017-05-06 07:20:39,820 INFO 35050 [Leader:Watcher] socket connected, port: 62021
+2017-05-06 07:30:55,841 INFO 35050 [Leader:Watcher] socket connected, port: 62066
+2017-05-06 07:41:01,835 INFO 35050 [Leader:Watcher] socket connected, port: 62091
+2017-05-06 07:51:07,132 INFO 35050 [Leader:Watcher] socket connected, port: 62119
+2017-05-06 07:54:56,191 INFO 35050 [Leader:Watcher] socket connected, port: 62170
+2017-05-06 08:16:22,325 INFO 35050 [Leader:Watcher] socket connected, port: 62253
+2017-05-06 08:26:28,005 INFO 35050 [Leader:Watcher] socket connected, port: 62264
+2017-05-06 08:36:43,062 INFO 35050 [Leader:Watcher] socket connected, port: 62311
+2017-05-06 08:46:49,070 INFO 35050 [Leader:Watcher] socket connected, port: 62343
+2017-05-06 08:56:55,036 INFO 35050 [Leader:Watcher] socket connected, port: 62377
+2017-05-06 09:17:16,108 INFO 35050 [Leader:Watcher] socket connected, port: 62436
+2017-05-06 09:27:32,379 INFO 35050 [Leader:Watcher] socket connected, port: 62470
+2017-05-06 09:37:37,376 INFO 35050 [Leader:Watcher] socket connected, port: 62497
+2017-05-06 09:47:43,395 INFO 35050 [Leader:Watcher] socket connected, port: 62521
+2017-05-06 09:57:59,366 INFO 35050 [Leader:Watcher] socket connected, port: 62568
+2017-05-06 10:08:04,402 INFO 35050 [Leader:Watcher] socket connected, port: 62591
+2017-05-06 10:18:10,374 INFO 35050 [Leader:Watcher] socket connected, port: 62620
+2017-05-06 10:28:26,627 INFO 35050 [Leader:Watcher] socket connected, port: 62654
+2017-05-06 10:38:32,148 INFO 35050 [Leader:Watcher] socket connected, port: 62680
+2017-05-06 10:48:37,169 INFO 35050 [Leader:Watcher] socket connected, port: 62709
+2017-05-06 10:58:53,186 INFO 35050 [Leader:Watcher] socket connected, port: 62738
+2017-05-06 11:09:09,224 INFO 35050 [Leader:Watcher] socket connected, port: 62767
+2017-05-06 11:19:14,508 INFO 35050 [Leader:Watcher] socket connected, port: 62792
+2017-05-06 11:29:21,005 INFO 35050 [Leader:Watcher] socket connected, port: 62808
+2017-05-06 11:39:36,998 INFO 35050 [Leader:Watcher] socket connected, port: 62865
+2017-05-06 11:49:43,009 INFO 35050 [Leader:Watcher] socket connected, port: 62891
+2017-05-06 11:59:48,013 INFO 35050 [Leader:Watcher] socket connected, port: 62915
+2017-05-06 12:10:03,519 INFO 35050 [Leader:Watcher] socket connected, port: 62963
+2017-05-06 12:20:10,005 INFO 35050 [Leader:Watcher] socket connected, port: 62979
+2017-05-06 12:25:18,020 INFO 35050 [Leader:Watcher] socket connected, port: 63026
+2017-05-06 12:29:53,452 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:29:58,797 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:30:21,699 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:31:08,529 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:33:31,058 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:33:50,119 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:34:44,218 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:36:14,337 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:37:53,268 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:38:21,954 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:40:31,294 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:43:32,652 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:43:36,617 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:44:59,571 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:45:10,550 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:45:25,179 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:45:54,184 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:46:48,072 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:46:53,018 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-06 12:54:12,994 INFO 35050 [Leader:Watcher] socket connected, port: 63316
+2017-05-06 14:54:49,672 INFO 35050 [Leader:Watcher] socket connected, port: 64631
+2017-05-06 15:05:06,242 INFO 35050 [Leader:Watcher] socket connected, port: 64675
+2017-05-06 15:15:11,265 INFO 35050 [Leader:Watcher] socket connected, port: 64699
+2017-05-06 15:25:27,522 INFO 35050 [Leader:Watcher] socket connected, port: 64728
+2017-05-06 15:35:32,547 INFO 35050 [Leader:Watcher] socket connected, port: 64757
+2017-05-06 15:45:39,004 INFO 35050 [Leader:Watcher] socket connected, port: 64770
+2017-05-06 15:55:54,964 INFO 35050 [Leader:Watcher] socket connected, port: 64818
+2017-05-06 16:05:59,942 INFO 35050 [Leader:Watcher] socket connected, port: 64840
+2017-05-06 16:16:05,929 INFO 35050 [Leader:Watcher] socket connected, port: 64853
+2017-05-06 16:26:21,196 INFO 35050 [Leader:Watcher] socket connected, port: 64894
+2017-05-06 16:36:28,004 INFO 35050 [Leader:Watcher] socket connected, port: 64917
+2017-05-06 16:46:43,999 INFO 35050 [Leader:Watcher] socket connected, port: 64970
+2017-05-06 16:56:49,933 INFO 35050 [Leader:Watcher] socket connected, port: 64998
+2017-05-06 17:06:54,916 INFO 35050 [Leader:Watcher] socket connected, port: 65013
+2017-05-06 17:17:10,914 INFO 35050 [Leader:Watcher] socket connected, port: 65065
+2017-05-06 17:27:16,177 INFO 35050 [Leader:Watcher] socket connected, port: 65093
+2017-05-06 17:37:22,117 INFO 35050 [Leader:Watcher] socket connected, port: 65126
+2017-05-06 17:47:38,104 INFO 35050 [Leader:Watcher] socket connected, port: 65159
+2017-05-06 17:57:44,101 INFO 35050 [Leader:Watcher] socket connected, port: 65183
+2017-05-06 18:07:49,091 INFO 35050 [Leader:Watcher] socket connected, port: 65210
+2017-05-06 18:17:56,003 INFO 35050 [Leader:Watcher] socket connected, port: 65235
+2017-05-06 18:38:17,144 INFO 35050 [Leader:Watcher] socket connected, port: 65324
+2017-05-06 18:41:49,004 INFO 35050 [Leader:Watcher] socket connected, port: 65342
+2017-05-06 18:51:25,110 INFO 35050 [Leader:Watcher] socket connected, port: 65379
+2017-05-06 19:02:21,656 INFO 35050 [Leader:Watcher] socket connected, port: 65416
+2017-05-06 19:12:17,169 INFO 35050 [Leader:Watcher] socket connected, port: 65457
+2017-05-06 19:32:08,787 INFO 35050 [Leader:Watcher] socket connected, port: 49159
+2017-05-06 19:42:05,676 INFO 35050 [Leader:Watcher] socket connected, port: 49194
+2017-05-06 19:51:52,006 INFO 35050 [Leader:Watcher] socket connected, port: 49203
+2017-05-06 20:01:47,936 INFO 35050 [Leader:Watcher] socket connected, port: 49249
+2017-05-06 20:21:39,347 INFO 35050 [Leader:Watcher] socket connected, port: 49312
+2017-05-06 20:31:34,296 INFO 35050 [Leader:Watcher] socket connected, port: 49339
+2017-05-06 20:51:18,156 INFO 35050 [Leader:Watcher] socket connected, port: 49375
+2017-05-06 21:01:11,886 INFO 35050 [Leader:Watcher] socket connected, port: 49436
+2017-05-06 21:11:07,765 INFO 35050 [Leader:Watcher] socket connected, port: 49477
+2017-05-06 21:21:03,966 INFO 35050 [Leader:Watcher] socket connected, port: 49503
+2017-05-06 21:30:58,899 INFO 35050 [Leader:Watcher] socket connected, port: 49529
+2017-05-06 21:40:54,757 INFO 35050 [Leader:Watcher] socket connected, port: 49555
+2017-05-06 21:50:50,698 INFO 35050 [Leader:Watcher] socket connected, port: 49584
+2017-05-06 22:00:46,566 INFO 35050 [Leader:Watcher] socket connected, port: 49609
+2017-05-06 22:10:32,008 INFO 35050 [Leader:Watcher] socket connected, port: 49617
+2017-05-06 22:20:28,145 INFO 35050 [Leader:Watcher] socket connected, port: 49688
+2017-05-06 22:30:25,046 INFO 35050 [Leader:Watcher] socket connected, port: 49717
+2017-05-06 22:40:20,966 INFO 35050 [Leader:Watcher] socket connected, port: 49745
+2017-05-06 22:50:16,927 INFO 35050 [Leader:Watcher] socket connected, port: 49775
+2017-05-06 23:00:03,005 INFO 35050 [Leader:Watcher] socket connected, port: 49785
+2017-05-06 23:09:58,920 INFO 35050 [Leader:Watcher] socket connected, port: 49826
+2017-05-06 23:19:55,098 INFO 35050 [Leader:Watcher] socket connected, port: 49869
+2017-05-06 23:29:49,973 INFO 35050 [Leader:Watcher] socket connected, port: 49897
+2017-05-06 23:39:45,914 INFO 35050 [Leader:Watcher] socket connected, port: 49947
+2017-05-06 23:49:34,147 INFO 35050 [Leader:Watcher] socket connected, port: 49968
+2017-05-06 23:59:29,342 INFO 35050 [Leader:Watcher] socket connected, port: 50006
+2017-05-07 00:07:49,290 INFO 35050 [Leader:Watcher] socket connected, port: 50037
+2017-05-07 00:11:09,335 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/service/index.js rename
+2017-05-07 00:11:09,134 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:11:10,052 INFO 35050 [Leader:Watcher] socket connected, port: 50081
+2017-05-07 00:11:45,946 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/service/index.js change
+2017-05-07 00:11:45,741 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:11:46,389 INFO 35050 [Leader:Watcher] socket connected, port: 50085
+2017-05-07 00:11:58,094 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/service/index.js change
+2017-05-07 00:11:57,889 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:12:06,315 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/service/index.js change
+2017-05-07 00:12:06,111 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:12:06,754 INFO 35050 [Leader:Watcher] socket connected, port: 50089
+2017-05-07 00:15:33,946 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/service/index.js change
+2017-05-07 00:15:33,742 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:15:34,426 INFO 35050 [Leader:Watcher] socket connected, port: 50119
+2017-05-07 00:15:41,365 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:16:09,387 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/extend/helper.js rename
+2017-05-07 00:16:09,186 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:16:09,841 INFO 35050 [Leader:Watcher] socket connected, port: 50128
+2017-05-07 00:16:24,831 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/extend/helper.js change
+2017-05-07 00:16:24,631 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:16:25,729 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/service/index.js change
+2017-05-07 00:16:25,317 INFO 35050 [Leader:Watcher] socket connected, port: 50138
+2017-05-07 00:16:25,529 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:16:26,195 INFO 35050 [Leader:Watcher] socket connected, port: 50140
+2017-05-07 00:17:42,581 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:17:50,974 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/middleware/robot.js rename
+2017-05-07 00:17:50,772 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:17:51,443 INFO 35050 [Leader:Watcher] socket connected, port: 50156
+2017-05-07 00:18:06,884 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/middleware/robot.js rename
+2017-05-07 00:18:06,680 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:18:07,344 INFO 35050 [Leader:Watcher] socket connected, port: 50160
+2017-05-07 00:18:26,460 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:18:26,663 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/middleware/robot.js change
+2017-05-07 00:18:27,133 INFO 35050 [Leader:Watcher] socket connected, port: 50174
+2017-05-07 00:21:09,440 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/config/config.default.js change
+2017-05-07 00:21:09,235 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:21:09,876 INFO 35050 [Leader:Watcher] socket connected, port: 50201
+2017-05-07 00:21:45,805 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:21:46,006 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/config/config.local.js rename
+2017-05-07 00:21:46,491 INFO 35050 [Leader:Watcher] socket connected, port: 50209
+2017-05-07 00:22:02,630 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/config/config.local.js rename
+2017-05-07 00:22:02,427 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:22:03,107 INFO 35050 [Leader:Watcher] socket connected, port: 50212
+2017-05-07 00:22:12,999 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:22:13,204 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/service/some.js rename
+2017-05-07 00:22:13,684 INFO 35050 [Leader:Watcher] socket connected, port: 50215
+2017-05-07 00:22:28,734 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/service/some.js change
+2017-05-07 00:22:28,531 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:22:29,200 INFO 35050 [Leader:Watcher] socket connected, port: 50224
+2017-05-07 00:22:30,291 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/service/some.js change
+2017-05-07 00:22:30,087 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:22:30,752 INFO 35050 [Leader:Watcher] socket connected, port: 50226
+2017-05-07 00:23:01,563 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/middleware/robot.test.js rename
+2017-05-07 00:23:01,362 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:23:22,589 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/middleware/robot.test.js change
+2017-05-07 00:23:22,386 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:24:48,072 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/middleware/robot.test.js rename
+2017-05-07 00:24:47,870 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:24:58,291 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/service/some.js rename
+2017-05-07 00:24:58,087 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:25:05,826 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:28:28,158 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:28:55,792 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:28:55,994 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/middleware/gzip.js rename
+2017-05-07 00:29:06,358 WARN 35050 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/middleware/gzip.js rename
+2017-05-07 00:29:06,157 INFO 35050 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:32:35,051 INFO 37183 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-07 00:32:35,066 INFO 37183 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-07 00:32:35,115 INFO 37183 [ClusterClient:Watcher] has seized port 50450, and serves as leader client.
+2017-05-07 00:32:35,117 INFO 37183 [egg-watcher:agent] watcher start success
+2017-05-07 00:32:35,594 INFO 37183 [Leader:Watcher] socket connected, port: 50452
+2017-05-07 00:35:52,416 INFO 37183 [Leader:Watcher] socket connected, port: 50487
+2017-05-07 00:40:37,913 INFO 37183 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:40:40,840 INFO 37183 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:40:44,535 INFO 37183 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-07 00:43:32,008 INFO 37183 [Leader:Watcher] socket connected, port: 50699
+2017-05-07 03:13:09,896 INFO 37183 [Leader:Watcher] socket connected, port: 58909
+2017-05-07 03:23:15,967 INFO 37183 [Leader:Watcher] socket connected, port: 58974
+2017-05-07 03:33:23,006 INFO 37183 [Leader:Watcher] socket connected, port: 59035
+2017-05-07 03:43:38,816 INFO 37183 [Leader:Watcher] socket connected, port: 59130
+2017-05-07 03:53:44,576 INFO 37183 [Leader:Watcher] socket connected, port: 59204
+2017-05-07 04:03:49,458 INFO 37183 [Leader:Watcher] socket connected, port: 59260
+2017-05-07 04:34:16,364 INFO 37183 [Leader:Watcher] socket connected, port: 59478
+2017-05-07 04:44:32,248 INFO 37183 [Leader:Watcher] socket connected, port: 59576
+2017-05-07 04:54:38,137 INFO 37183 [Leader:Watcher] socket connected, port: 59646
+2017-05-07 05:04:43,986 INFO 37183 [Leader:Watcher] socket connected, port: 59706
+2017-05-07 05:14:59,851 INFO 37183 [Leader:Watcher] socket connected, port: 59801
+2017-05-07 05:25:05,002 INFO 37183 [Leader:Watcher] socket connected, port: 59867
+2017-05-07 05:35:10,825 INFO 37183 [Leader:Watcher] socket connected, port: 59929
+2017-05-07 05:45:26,682 INFO 37183 [Leader:Watcher] socket connected, port: 60027
+2017-05-07 05:55:32,567 INFO 37183 [Leader:Watcher] socket connected, port: 60092
+2017-05-07 06:05:38,450 INFO 37183 [Leader:Watcher] socket connected, port: 60161
+2017-05-07 06:25:59,439 INFO 37183 [Leader:Watcher] socket connected, port: 60304
+2017-05-07 06:36:05,275 INFO 37183 [Leader:Watcher] socket connected, port: 60378
+2017-05-07 06:46:20,198 INFO 37183 [Leader:Watcher] socket connected, port: 60464
+2017-05-07 06:56:26,073 INFO 37183 [Leader:Watcher] socket connected, port: 60539
+2017-05-07 07:06:31,951 INFO 37183 [Leader:Watcher] socket connected, port: 60609
+2017-05-07 07:16:39,006 INFO 37183 [Leader:Watcher] socket connected, port: 60669
+2017-05-07 07:26:55,126 INFO 37183 [Leader:Watcher] socket connected, port: 60769
+2017-05-07 07:37:00,985 INFO 37183 [Leader:Watcher] socket connected, port: 60834
+2017-05-07 07:47:07,005 INFO 37183 [Leader:Watcher] socket connected, port: 60898
+2017-05-07 07:57:22,881 INFO 37183 [Leader:Watcher] socket connected, port: 60993
+2017-05-07 08:07:27,771 INFO 37183 [Leader:Watcher] socket connected, port: 61059
+2017-05-07 08:17:33,636 INFO 37183 [Leader:Watcher] socket connected, port: 61119
+2017-05-07 08:27:48,763 INFO 37183 [Leader:Watcher] socket connected, port: 61215
+2017-05-07 08:48:00,439 INFO 37183 [Leader:Watcher] socket connected, port: 61346
+2017-05-07 08:58:16,288 INFO 37183 [Leader:Watcher] socket connected, port: 61452
+2017-05-07 09:08:22,150 INFO 37183 [Leader:Watcher] socket connected, port: 61532
+2017-05-07 09:18:27,981 INFO 37183 [Leader:Watcher] socket connected, port: 61607
+2017-05-07 09:28:43,069 INFO 37183 [Leader:Watcher] socket connected, port: 61706
+2017-05-07 09:48:54,752 INFO 37183 [Leader:Watcher] socket connected, port: 61838
+2017-05-07 09:52:54,552 INFO 37183 [Leader:Watcher] socket connected, port: 61939
+2017-05-07 10:03:10,098 INFO 37183 [Leader:Watcher] socket connected, port: 62027
+2017-05-07 10:13:15,878 INFO 37183 [Leader:Watcher] socket connected, port: 62096
+2017-05-07 10:23:31,947 INFO 37183 [Leader:Watcher] socket connected, port: 62178
+2017-05-07 10:33:37,767 INFO 37183 [Leader:Watcher] socket connected, port: 62244
+2017-05-07 10:38:00,831 INFO 37183 [Leader:Watcher] socket connected, port: 62317
+2017-05-07 10:38:41,985 INFO 37183 [Leader:Watcher] socket connected, port: 62360
+2017-05-07 11:38:52,007 INFO 37183 [Leader:Watcher] socket connected, port: 65003
+2017-05-07 11:49:18,768 INFO 37183 [Leader:Watcher] socket connected, port: 49157
+2017-05-07 11:56:50,636 INFO 38457 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-07 11:56:50,651 INFO 38457 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-07 11:56:50,711 INFO 38457 [ClusterClient:Watcher] has seized port 49265, and serves as leader client.
+2017-05-07 11:56:50,712 INFO 38457 [egg-watcher:agent] watcher start success
+2017-05-07 11:56:51,262 INFO 38457 [Leader:Watcher] socket connected, port: 49267
+2017-05-08 14:40:52,496 INFO 40291 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-08 14:40:52,512 INFO 40291 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-08 14:40:52,574 INFO 40291 [ClusterClient:Watcher] has seized port 61597, and serves as leader client.
+2017-05-08 14:40:52,575 INFO 40291 [egg-watcher:agent] watcher start success
+2017-05-08 14:40:53,104 INFO 40291 [Leader:Watcher] socket connected, port: 61599
+2017-05-08 14:45:03,007 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/config/config.default.js change
+2017-05-08 14:45:02,803 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:45:03,537 INFO 40291 [Leader:Watcher] socket connected, port: 61755
+2017-05-08 14:45:11,960 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:45:12,161 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/config/config.${env}.js rename
+2017-05-08 14:45:12,723 INFO 40291 [Leader:Watcher] socket connected, port: 61758
+2017-05-08 14:46:12,118 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:46:12,323 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 14:46:26,590 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:46:36,262 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:46:36,465 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/login/index.js rename
+2017-05-08 14:46:53,069 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/login/index.js rename
+2017-05-08 14:46:52,868 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:47:00,101 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:47:00,306 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/login/index.js change
+2017-05-08 14:47:27,248 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:47:27,453 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 14:47:36,008 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/login/index.js change
+2017-05-08 14:47:35,808 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:47:50,643 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,114 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,115 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,115 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,165 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,166 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,218 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,219 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,219 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,219 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,227 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,228 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,228 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,230 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,230 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,230 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,231 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,232 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,233 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,233 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,234 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,234 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,235 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,235 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,236 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,237 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,239 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,239 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,239 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,240 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,240 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,241 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,241 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,242 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,243 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,250 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,251 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,251 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,251 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,251 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,252 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,252 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,252 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,253 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,253 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,253 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,254 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,255 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,255 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,255 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,256 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,256 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,256 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,258 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,259 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,259 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,259 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,259 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,259 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,260 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,260 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,260 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,261 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,261 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,261 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,262 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,262 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,267 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,267 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,267 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,267 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,268 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,268 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,281 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,281 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,282 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,282 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,286 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,287 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,287 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,287 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,287 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,287 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,288 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,288 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,289 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,294 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,295 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,295 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,295 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,295 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,296 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,296 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,296 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,297 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,297 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,298 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,298 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,298 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,299 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,299 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,313 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,313 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,318 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,319 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,334 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,335 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,342 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,342 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,343 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,348 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,348 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,360 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,361 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,365 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,365 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,366 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,366 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,367 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,367 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,367 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,367 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,368 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,369 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,370 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,370 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,370 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,370 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,371 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,371 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,371 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,371 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,371 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,372 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,372 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,372 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,378 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,378 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,390 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,390 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,393 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,394 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,398 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,398 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,398 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,398 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,399 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,399 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,399 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,399 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,400 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,400 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,400 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,401 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,401 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,401 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,401 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,402 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,402 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,402 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,402 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,403 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,403 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,404 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,404 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,404 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,405 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,405 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,405 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,406 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,406 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,406 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,406 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,407 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,407 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,407 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,407 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,408 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,408 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,408 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,408 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,409 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,409 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,409 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,409 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,423 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,423 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,424 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,424 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,464 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,465 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,465 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,480 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,480 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,481 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,486 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,486 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,486 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,486 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,487 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,499 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,500 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,500 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,503 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,504 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,504 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,505 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,509 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,509 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,509 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,509 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,509 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,510 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,510 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,510 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,510 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,511 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,515 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,516 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,516 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,516 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,517 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,517 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,520 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,521 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,521 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,521 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,521 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,522 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,522 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,522 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,522 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,523 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,523 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,523 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,527 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,528 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,528 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,529 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,532 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,532 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,581 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,581 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,586 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,586 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,587 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,587 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,587 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,587 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,588 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,588 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,588 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,588 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,589 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,589 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,589 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,589 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,590 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,590 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,590 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,590 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,595 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,595 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,595 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,596 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,596 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,596 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,597 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,597 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,597 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,597 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,598 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,598 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,598 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,598 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,599 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,599 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,599 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,600 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,615 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,616 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,616 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,616 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,616 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,617 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,617 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,617 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,617 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,618 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,618 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,618 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,618 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,619 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,619 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,619 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,619 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,620 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,625 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,626 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,626 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,626 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,626 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,626 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,627 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,627 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,627 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,628 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,628 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,628 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,628 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,628 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,629 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,629 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,629 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,630 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,630 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,631 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,631 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,632 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,632 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,633 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,634 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,634 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,634 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,635 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,635 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,636 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,636 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,637 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,637 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,637 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,638 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,638 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,642 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,643 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,644 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,644 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,645 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,645 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,645 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,646 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,646 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,646 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,646 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,647 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,647 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,647 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,719 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,720 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,722 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,723 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,723 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,724 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,725 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,725 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,725 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,726 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,726 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,727 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,727 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,727 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,727 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,728 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,728 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,728 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,729 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,729 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,729 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,730 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,730 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,731 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,731 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,732 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,733 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,733 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,733 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,734 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,734 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,734 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,734 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,734 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,735 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,735 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,735 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,735 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,736 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,736 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,736 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,736 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,737 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,737 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,738 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,738 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,738 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,739 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,739 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,784 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,784 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,784 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,785 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,785 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,785 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,785 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,786 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,786 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,786 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,786 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,787 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,787 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,788 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,788 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,788 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,789 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,789 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,789 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,790 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,790 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,790 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,791 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,791 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,791 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,792 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,796 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,796 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,797 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,797 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,797 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,797 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,798 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,798 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,798 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,798 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,799 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,799 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,800 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,800 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,800 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,801 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,801 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,801 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,802 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,802 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,802 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,803 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,803 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,803 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,804 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,804 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,804 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,804 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,805 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,805 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,805 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,806 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,806 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,806 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,806 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,807 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,807 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,807 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,807 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,808 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,808 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,808 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,808 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,808 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,809 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,809 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,809 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,809 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,810 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,810 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,810 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,810 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,810 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,810 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,811 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,812 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,812 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,812 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,813 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,813 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,813 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,813 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,833 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,833 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,834 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,834 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,834 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,834 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,834 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,834 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,835 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,835 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,835 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,835 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,835 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,836 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,837 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,837 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,837 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,838 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,838 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,838 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,838 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,839 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,839 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,840 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,840 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,840 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,841 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,841 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,841 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,841 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,842 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,842 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,842 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,842 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,842 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,843 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,843 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,843 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,843 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,843 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,843 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,844 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,844 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,844 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,844 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,844 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,845 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,845 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,845 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,845 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,845 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,846 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,846 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,846 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,846 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,846 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,846 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,846 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,847 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,847 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,847 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,848 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,848 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,848 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,848 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,848 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,848 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,849 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,849 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,849 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,849 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,850 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,850 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,851 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,851 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,851 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,851 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,882 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,896 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,896 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,947 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,948 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,948 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,948 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,949 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,949 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,949 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,949 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,950 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,950 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,951 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,951 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,951 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,952 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,952 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,952 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,953 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,953 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,953 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,953 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,954 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,954 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,954 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,955 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,955 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,955 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,956 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,956 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,956 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,956 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,957 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,957 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,957 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,958 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,958 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,958 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,958 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,959 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,959 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,959 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,960 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,960 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,960 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,961 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,962 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,962 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,962 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,962 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,963 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,963 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,963 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,964 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,964 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,964 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,964 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,965 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,965 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,965 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,966 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,966 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,966 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,967 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,967 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,967 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,967 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,968 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,979 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,980 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,991 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:47,992 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,062 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,062 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,062 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,062 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,063 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,063 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,063 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,064 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,064 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,064 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,064 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,065 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,065 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,065 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,065 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,066 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,066 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,066 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,066 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,067 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,067 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,067 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,067 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,068 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,068 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,068 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,068 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,068 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,069 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,069 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,070 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,070 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,070 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,071 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,071 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,072 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,072 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,072 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,072 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,073 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,073 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,073 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,073 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,073 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,074 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,074 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,074 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,074 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,074 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,075 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,075 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,075 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,075 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,076 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,076 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,077 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,077 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,077 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,077 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,077 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,078 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,078 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,078 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,078 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,078 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,078 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,079 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,079 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,079 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,079 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,080 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,080 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,080 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,080 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,080 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,081 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,081 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,081 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,081 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,081 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,081 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,082 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,082 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,082 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,082 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,082 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,082 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,083 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,083 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,083 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,083 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,083 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,084 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,084 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,084 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,084 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,084 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,084 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,084 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,085 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,085 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,085 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,085 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,085 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,086 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,086 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,086 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,086 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,086 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,086 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,086 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,087 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,087 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,087 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,087 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,087 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,110 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,110 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,110 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,111 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,111 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,120 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,120 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,121 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,121 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,172 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,172 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,173 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,174 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,174 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,175 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,175 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,175 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,175 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,175 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,176 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,176 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,176 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,176 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,176 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,177 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,177 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,177 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,177 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,178 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,178 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,178 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,178 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,178 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,179 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,179 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,179 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,179 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,179 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,179 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,180 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,180 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,180 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,180 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,180 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,180 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,181 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,181 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,181 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,181 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,181 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,182 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,182 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,182 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,182 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,182 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,182 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,183 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,183 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,183 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,183 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,184 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,184 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,184 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,184 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,185 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,185 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,185 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,185 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,186 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,186 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,186 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,186 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,186 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,187 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,187 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,222 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,222 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,222 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,223 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,223 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,223 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,223 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,224 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,224 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,224 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,225 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,225 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,225 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,225 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,226 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,226 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,226 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,227 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,227 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,227 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,227 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,227 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,228 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,228 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,228 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,228 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,229 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,229 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,229 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,229 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,229 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,230 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,230 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,230 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,230 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,231 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,231 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,272 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,273 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,273 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,273 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,273 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,274 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,274 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,274 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,274 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,274 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,275 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,275 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,275 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,275 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,275 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,275 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,276 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,277 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,277 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,278 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,278 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,278 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,278 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,279 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,279 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,279 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,280 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,280 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,280 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,280 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,281 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,281 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,281 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,281 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,282 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,282 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,282 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,283 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,283 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,283 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,284 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,284 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,284 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,284 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,285 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,285 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,285 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,285 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,286 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,286 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,286 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,286 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,287 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,287 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,287 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,287 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,287 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,288 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,288 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,288 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,288 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,289 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,289 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,289 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,289 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,290 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,290 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,290 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,290 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,291 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,291 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,291 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,292 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,292 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,292 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,292 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,293 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,308 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,308 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,309 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,309 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,309 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,309 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,359 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,360 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,360 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,361 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,361 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,361 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,361 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,362 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,362 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,363 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,363 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,364 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,364 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,364 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,364 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,365 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,365 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,365 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,366 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,366 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,366 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,366 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,367 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,367 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,367 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,367 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,368 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,368 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,368 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,368 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,368 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,369 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,369 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,369 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,370 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,370 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,370 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,370 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,371 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,371 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,371 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,371 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,372 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,372 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,372 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,373 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,373 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,373 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,374 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,374 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,375 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,375 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,376 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,376 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,376 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,376 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,377 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,377 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,377 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,378 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,378 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,378 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,379 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,379 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,380 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,380 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,380 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,381 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,381 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:49:48,381 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,715 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,716 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,716 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,716 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,716 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,717 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,717 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,717 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,717 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,717 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,717 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,718 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,718 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,765 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,766 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,816 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,817 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,817 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,817 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,818 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,818 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,818 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,818 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,819 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,819 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,819 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,819 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:01,819 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:07,868 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:07,868 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:07,869 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:07,919 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:07,919 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:50:07,919 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:51:23,193 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:51:32,229 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:51:32,230 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:51:38,296 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:51:38,296 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:52:04,022 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:52:49,075 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:52:49,278 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/login/index.js change
+2017-05-08 14:52:58,906 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/login/index.js change
+2017-05-08 14:52:58,701 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:53:25,009 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:53:25,213 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/login/index.js change
+2017-05-08 14:53:42,603 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/login/index.js change
+2017-05-08 14:53:42,402 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:53:54,567 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/login/index.js change
+2017-05-08 14:53:54,362 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:54:07,807 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/login/index.js change
+2017-05-08 14:54:07,602 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:54:26,014 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 14:54:25,814 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:54:32,301 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 14:54:32,098 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:54:35,294 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 14:54:35,092 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:55:04,739 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 14:55:04,538 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:55:05,275 INFO 40291 [Leader:Watcher] socket connected, port: 62041
+2017-05-08 14:55:19,348 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/index.js change
+2017-05-08 14:55:19,144 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:55:19,871 INFO 40291 [Leader:Watcher] socket connected, port: 62045
+2017-05-08 14:55:38,464 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/index.js change
+2017-05-08 14:55:38,259 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:55:38,998 INFO 40291 [Leader:Watcher] socket connected, port: 62051
+2017-05-08 14:56:04,586 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 14:56:04,380 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:56:07,445 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 14:56:07,240 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:56:07,964 INFO 40291 [Leader:Watcher] socket connected, port: 62062
+2017-05-08 14:56:35,657 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/login/index.js change
+2017-05-08 14:56:35,455 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:56:36,191 INFO 40291 [Leader:Watcher] socket connected, port: 62071
+2017-05-08 14:57:26,059 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 14:57:25,859 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:57:26,578 INFO 40291 [Leader:Watcher] socket connected, port: 62081
+2017-05-08 14:58:09,315 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/login/index.js change
+2017-05-08 14:58:09,114 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:58:09,956 INFO 40291 [Leader:Watcher] socket connected, port: 62098
+2017-05-08 14:58:23,872 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/login/index.js change
+2017-05-08 14:58:23,672 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:58:24,425 INFO 40291 [Leader:Watcher] socket connected, port: 62110
+2017-05-08 14:58:28,482 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:58:28,482 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:58:30,003 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 14:58:30,209 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/login/index.js change
+2017-05-08 14:58:30,731 INFO 40291 [Leader:Watcher] socket connected, port: 62115
+2017-05-08 14:59:49,964 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:00:08,657 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:00:15,498 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:00:38,774 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:00:52,768 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:00:55,614 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:01:20,489 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:01:36,665 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:01:53,264 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:03:40,430 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:03:51,770 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:04:27,668 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:05:51,913 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:07:04,830 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:07:12,529 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:07:20,865 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:08:02,247 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:14:56,800 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:15:35,118 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:15:41,246 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:15:53,625 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:16:04,321 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:16:04,321 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:16:18,778 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:17:15,204 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:17:18,259 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:19:07,786 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/index.1.js rename
+2017-05-08 15:19:07,585 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:19:12,438 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/error.js rename
+2017-05-08 15:19:12,235 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:19:12,235 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:19:12,982 INFO 40291 [Leader:Watcher] socket connected, port: 63022
+2017-05-08 15:19:28,046 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/error.js rename
+2017-05-08 15:19:27,841 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:19:28,588 INFO 40291 [Leader:Watcher] socket connected, port: 63030
+2017-05-08 15:19:56,560 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:19:56,765 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/error.js change
+2017-05-08 15:19:57,308 INFO 40291 [Leader:Watcher] socket connected, port: 63041
+2017-05-08 15:41:57,487 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 15:41:57,286 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:42:04,851 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/error.js change
+2017-05-08 15:42:04,650 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:42:05,383 INFO 40291 [Leader:Watcher] socket connected, port: 65159
+2017-05-08 15:42:24,881 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/error.js change
+2017-05-08 15:42:24,676 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:42:25,407 INFO 40291 [Leader:Watcher] socket connected, port: 65172
+2017-05-08 15:42:30,173 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/error.js change
+2017-05-08 15:42:29,972 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:42:38,794 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:42:38,998 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 15:42:39,523 INFO 40291 [Leader:Watcher] socket connected, port: 65176
+2017-05-08 15:47:18,148 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 15:47:17,944 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:47:18,828 INFO 40291 [Leader:Watcher] socket connected, port: 49171
+2017-05-08 15:47:48,074 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 15:47:47,869 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:47:48,628 INFO 40291 [Leader:Watcher] socket connected, port: 49187
+2017-05-08 15:48:41,847 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:48:42,051 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 15:48:42,697 INFO 40291 [Leader:Watcher] socket connected, port: 49307
+2017-05-08 15:48:48,990 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:48:49,193 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 15:48:49,739 INFO 40291 [Leader:Watcher] socket connected, port: 49322
+2017-05-08 15:50:15,509 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 15:50:15,304 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:50:16,040 INFO 40291 [Leader:Watcher] socket connected, port: 49395
+2017-05-08 15:50:27,004 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 15:50:26,799 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:50:27,567 INFO 40291 [Leader:Watcher] socket connected, port: 49405
+2017-05-08 15:50:43,269 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 15:50:43,065 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:50:43,821 INFO 40291 [Leader:Watcher] socket connected, port: 49416
+2017-05-08 15:50:55,833 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 15:50:55,632 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:50:56,365 INFO 40291 [Leader:Watcher] socket connected, port: 49430
+2017-05-08 15:55:27,067 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 15:55:26,862 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:55:27,712 INFO 40291 [Leader:Watcher] socket connected, port: 49585
+2017-05-08 15:55:48,554 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/error.js rename
+2017-05-08 15:55:48,354 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:55:49,156 INFO 40291 [Leader:Watcher] socket connected, port: 49602
+2017-05-08 15:56:15,135 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:56:15,339 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 15:56:15,873 INFO 40291 [Leader:Watcher] socket connected, port: 49611
+2017-05-08 15:56:35,296 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 15:56:35,094 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:56:35,902 INFO 40291 [Leader:Watcher] socket connected, port: 49629
+2017-05-08 15:56:52,376 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:56:52,577 WARN 40291 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-08 15:56:53,109 INFO 40291 [Leader:Watcher] socket connected, port: 49642
+2017-05-08 15:57:13,061 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:57:40,770 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:57:48,353 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:58:01,279 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 15:58:16,173 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:08:28,980 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:08:45,751 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:09:10,087 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:09:39,404 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:10:10,565 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:10:55,981 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:11:34,187 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:21:49,013 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:22:49,752 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:23:35,229 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:26:51,068 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:28:19,258 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:28:21,671 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:28:29,428 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:28:45,079 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:29:26,070 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:29:40,764 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:29:52,039 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:30:00,791 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:30:13,526 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:34:41,876 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:35:22,010 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:35:22,010 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:35:29,129 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:35:43,402 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:35:50,380 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:35:53,235 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:36:20,883 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:36:43,747 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:37:01,191 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:37:08,445 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:37:08,446 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:43:26,002 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:44:20,007 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:45:08,450 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:45:22,135 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:46:33,955 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:46:43,020 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:46:54,227 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:47:06,095 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:47:23,800 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:47:59,048 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:48:01,749 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:48:05,631 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:49:07,677 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:49:13,053 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:49:55,702 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:50:07,176 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:50:24,975 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:51:25,007 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:51:59,669 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:52:21,718 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:52:26,526 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:52:50,147 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:53:32,062 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:54:05,844 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:54:18,020 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:55:30,058 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:56:29,040 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:57:05,364 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:58:09,536 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:59:18,107 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:59:24,136 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:59:26,949 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 16:59:33,655 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:00:54,177 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:03:51,768 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:06:37,976 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:07:35,534 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:08:00,482 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:08:13,420 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:08:31,927 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:09:46,241 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:09:56,787 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:10:55,705 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:11:32,860 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:12:24,411 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:12:35,062 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:12:54,352 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:17:10,233 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:17:42,812 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:19:38,572 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:19:58,514 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:19:59,356 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1

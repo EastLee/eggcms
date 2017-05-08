@@ -1,0 +1,412 @@
+2017-05-05 22:43:30,422 INFO 34416 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:43:30,459 INFO 34416 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:43:30,460 INFO 34416 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:43:30,492 INFO 34416 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:43:30,494 INFO 34416 [egg-security] use csrf middleware
+2017-05-05 22:43:30,495 INFO 34416 [egg-security] use methodnoallow middleware
+2017-05-05 22:43:30,495 INFO 34416 [egg-security] use noopen middleware
+2017-05-05 22:43:30,495 INFO 34416 [egg-security] use nosniff middleware
+2017-05-05 22:43:30,496 INFO 34416 [egg-security] use xssProtection middleware
+2017-05-05 22:43:30,496 INFO 34416 [egg-security] use xframe middleware
+2017-05-05 22:43:30,496 INFO 34416 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:43:30,514 INFO 34416 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:43:30,519 INFO 34416 [egg-watcher:app] watcher start success
+2017-05-05 22:43:30,524 INFO 34416 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 22:44:56,725 INFO 34432 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:44:56,767 INFO 34432 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:44:56,767 INFO 34432 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:44:56,798 INFO 34432 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:44:56,800 INFO 34432 [egg-security] use csrf middleware
+2017-05-05 22:44:56,801 INFO 34432 [egg-security] use methodnoallow middleware
+2017-05-05 22:44:56,801 INFO 34432 [egg-security] use noopen middleware
+2017-05-05 22:44:56,802 INFO 34432 [egg-security] use nosniff middleware
+2017-05-05 22:44:56,802 INFO 34432 [egg-security] use xssProtection middleware
+2017-05-05 22:44:56,802 INFO 34432 [egg-security] use xframe middleware
+2017-05-05 22:44:56,803 INFO 34432 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:44:56,823 INFO 34432 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:44:56,826 INFO 34432 [egg-watcher:app] watcher start success
+2017-05-05 22:44:56,829 INFO 34432 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 22:48:14,054 INFO 34455 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:48:14,097 INFO 34455 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:48:14,097 INFO 34455 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:48:14,127 INFO 34455 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:48:14,129 INFO 34455 [egg-security] use csrf middleware
+2017-05-05 22:48:14,130 INFO 34455 [egg-security] use methodnoallow middleware
+2017-05-05 22:48:14,130 INFO 34455 [egg-security] use noopen middleware
+2017-05-05 22:48:14,131 INFO 34455 [egg-security] use nosniff middleware
+2017-05-05 22:48:14,131 INFO 34455 [egg-security] use xssProtection middleware
+2017-05-05 22:48:14,131 INFO 34455 [egg-security] use xframe middleware
+2017-05-05 22:48:14,131 INFO 34455 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:48:14,150 INFO 34455 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:48:14,153 INFO 34455 [egg-watcher:app] watcher start success
+2017-05-05 22:48:14,157 INFO 34455 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 22:49:48,086 INFO 34472 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:49:48,128 INFO 34472 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:49:48,128 INFO 34472 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:49:48,161 INFO 34472 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:49:48,163 INFO 34472 [egg-security] use csrf middleware
+2017-05-05 22:49:48,163 INFO 34472 [egg-security] use methodnoallow middleware
+2017-05-05 22:49:48,164 INFO 34472 [egg-security] use noopen middleware
+2017-05-05 22:49:48,164 INFO 34472 [egg-security] use nosniff middleware
+2017-05-05 22:49:48,165 INFO 34472 [egg-security] use xssProtection middleware
+2017-05-05 22:49:48,165 INFO 34472 [egg-security] use xframe middleware
+2017-05-05 22:49:48,165 INFO 34472 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:49:48,184 INFO 34472 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:49:48,187 INFO 34472 [egg-watcher:app] watcher start success
+2017-05-05 22:49:48,190 INFO 34472 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 22:53:17,310 INFO 34505 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:53:17,347 INFO 34505 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:53:17,348 INFO 34505 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:53:17,378 INFO 34505 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:53:17,380 INFO 34505 [egg-security] use csrf middleware
+2017-05-05 22:53:17,381 INFO 34505 [egg-security] use methodnoallow middleware
+2017-05-05 22:53:17,381 INFO 34505 [egg-security] use noopen middleware
+2017-05-05 22:53:17,381 INFO 34505 [egg-security] use nosniff middleware
+2017-05-05 22:53:17,382 INFO 34505 [egg-security] use xssProtection middleware
+2017-05-05 22:53:17,382 INFO 34505 [egg-security] use xframe middleware
+2017-05-05 22:53:17,382 INFO 34505 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:53:17,405 INFO 34505 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:53:17,408 INFO 34505 [egg-watcher:app] watcher start success
+2017-05-05 22:53:17,412 INFO 34505 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 22:53:22,810 INFO 34506 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:53:22,850 INFO 34506 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:53:22,851 INFO 34506 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:53:22,885 INFO 34506 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:53:22,887 INFO 34506 [egg-security] use csrf middleware
+2017-05-05 22:53:22,888 INFO 34506 [egg-security] use methodnoallow middleware
+2017-05-05 22:53:22,888 INFO 34506 [egg-security] use noopen middleware
+2017-05-05 22:53:22,888 INFO 34506 [egg-security] use nosniff middleware
+2017-05-05 22:53:22,889 INFO 34506 [egg-security] use xssProtection middleware
+2017-05-05 22:53:22,889 INFO 34506 [egg-security] use xframe middleware
+2017-05-05 22:53:22,889 INFO 34506 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:53:22,910 INFO 34506 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:53:22,913 INFO 34506 [egg-watcher:app] watcher start success
+2017-05-05 22:53:22,917 INFO 34506 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 22:53:33,476 INFO 34507 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:53:33,515 INFO 34507 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:53:33,515 INFO 34507 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:53:33,545 INFO 34507 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:53:33,547 INFO 34507 [egg-security] use csrf middleware
+2017-05-05 22:53:33,548 INFO 34507 [egg-security] use methodnoallow middleware
+2017-05-05 22:53:33,548 INFO 34507 [egg-security] use noopen middleware
+2017-05-05 22:53:33,549 INFO 34507 [egg-security] use nosniff middleware
+2017-05-05 22:53:33,549 INFO 34507 [egg-security] use xssProtection middleware
+2017-05-05 22:53:33,550 INFO 34507 [egg-security] use xframe middleware
+2017-05-05 22:53:33,550 INFO 34507 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:53:33,570 INFO 34507 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:53:33,573 INFO 34507 [egg-watcher:app] watcher start success
+2017-05-05 22:53:33,578 INFO 34507 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 22:53:40,635 INFO 34508 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:53:40,676 INFO 34508 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:53:40,677 INFO 34508 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:53:40,712 INFO 34508 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:53:40,714 INFO 34508 [egg-security] use csrf middleware
+2017-05-05 22:53:40,715 INFO 34508 [egg-security] use methodnoallow middleware
+2017-05-05 22:53:40,716 INFO 34508 [egg-security] use noopen middleware
+2017-05-05 22:53:40,716 INFO 34508 [egg-security] use nosniff middleware
+2017-05-05 22:53:40,716 INFO 34508 [egg-security] use xssProtection middleware
+2017-05-05 22:53:40,717 INFO 34508 [egg-security] use xframe middleware
+2017-05-05 22:53:40,717 INFO 34508 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:53:40,736 INFO 34508 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:53:40,739 INFO 34508 [egg-watcher:app] watcher start success
+2017-05-05 22:53:40,744 INFO 34508 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 22:53:51,146 INFO 34510 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:53:51,187 INFO 34510 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:53:51,188 INFO 34510 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:53:51,218 INFO 34510 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:53:51,220 INFO 34510 [egg-security] use csrf middleware
+2017-05-05 22:53:51,221 INFO 34510 [egg-security] use methodnoallow middleware
+2017-05-05 22:53:51,221 INFO 34510 [egg-security] use noopen middleware
+2017-05-05 22:53:51,222 INFO 34510 [egg-security] use nosniff middleware
+2017-05-05 22:53:51,222 INFO 34510 [egg-security] use xssProtection middleware
+2017-05-05 22:53:51,223 INFO 34510 [egg-security] use xframe middleware
+2017-05-05 22:53:51,223 INFO 34510 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:53:51,243 INFO 34510 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:53:51,247 INFO 34510 [egg-watcher:app] watcher start success
+2017-05-05 22:53:51,250 INFO 34510 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 22:53:58,872 INFO 34513 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:53:58,911 INFO 34513 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:53:58,911 INFO 34513 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:53:58,945 INFO 34513 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:53:58,947 INFO 34513 [egg-security] use csrf middleware
+2017-05-05 22:53:58,948 INFO 34513 [egg-security] use methodnoallow middleware
+2017-05-05 22:53:58,948 INFO 34513 [egg-security] use noopen middleware
+2017-05-05 22:53:58,948 INFO 34513 [egg-security] use nosniff middleware
+2017-05-05 22:53:58,949 INFO 34513 [egg-security] use xssProtection middleware
+2017-05-05 22:53:58,949 INFO 34513 [egg-security] use xframe middleware
+2017-05-05 22:53:58,949 INFO 34513 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:53:58,968 INFO 34513 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:53:58,971 INFO 34513 [egg-watcher:app] watcher start success
+2017-05-05 22:53:58,974 INFO 34513 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 22:54:06,758 INFO 34514 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:54:06,799 INFO 34514 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:54:06,800 INFO 34514 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:54:06,834 INFO 34514 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:54:06,836 INFO 34514 [egg-security] use csrf middleware
+2017-05-05 22:54:06,837 INFO 34514 [egg-security] use methodnoallow middleware
+2017-05-05 22:54:06,837 INFO 34514 [egg-security] use noopen middleware
+2017-05-05 22:54:06,837 INFO 34514 [egg-security] use nosniff middleware
+2017-05-05 22:54:06,838 INFO 34514 [egg-security] use xssProtection middleware
+2017-05-05 22:54:06,838 INFO 34514 [egg-security] use xframe middleware
+2017-05-05 22:54:06,838 INFO 34514 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:54:06,860 INFO 34514 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:54:06,863 INFO 34514 [egg-watcher:app] watcher start success
+2017-05-05 22:54:06,867 INFO 34514 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 22:54:27,291 INFO 34521 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:54:27,332 INFO 34521 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:54:27,333 INFO 34521 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:54:27,366 INFO 34521 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:54:27,371 INFO 34521 [egg-security] use csrf middleware
+2017-05-05 22:54:27,372 INFO 34521 [egg-security] use methodnoallow middleware
+2017-05-05 22:54:27,373 INFO 34521 [egg-security] use noopen middleware
+2017-05-05 22:54:27,373 INFO 34521 [egg-security] use nosniff middleware
+2017-05-05 22:54:27,373 INFO 34521 [egg-security] use xssProtection middleware
+2017-05-05 22:54:27,374 INFO 34521 [egg-security] use xframe middleware
+2017-05-05 22:54:27,374 INFO 34521 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:54:27,394 INFO 34521 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:54:27,396 INFO 34521 [egg-watcher:app] watcher start success
+2017-05-05 22:54:27,400 INFO 34521 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 22:54:51,256 INFO 34526 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:54:51,296 INFO 34526 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:54:51,297 INFO 34526 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:54:51,328 INFO 34526 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:54:51,329 INFO 34526 [egg-security] use csrf middleware
+2017-05-05 22:54:51,330 INFO 34526 [egg-security] use methodnoallow middleware
+2017-05-05 22:54:51,330 INFO 34526 [egg-security] use noopen middleware
+2017-05-05 22:54:51,331 INFO 34526 [egg-security] use nosniff middleware
+2017-05-05 22:54:51,331 INFO 34526 [egg-security] use xssProtection middleware
+2017-05-05 22:54:51,331 INFO 34526 [egg-security] use xframe middleware
+2017-05-05 22:54:51,332 INFO 34526 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:54:51,350 INFO 34526 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:54:51,354 INFO 34526 [egg-watcher:app] watcher start success
+2017-05-05 22:54:51,358 INFO 34526 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 22:54:55,417 INFO 34527 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:54:55,460 INFO 34527 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:54:55,461 INFO 34527 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:54:55,491 INFO 34527 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:54:55,493 INFO 34527 [egg-security] use csrf middleware
+2017-05-05 22:54:55,493 INFO 34527 [egg-security] use methodnoallow middleware
+2017-05-05 22:54:55,494 INFO 34527 [egg-security] use noopen middleware
+2017-05-05 22:54:55,494 INFO 34527 [egg-security] use nosniff middleware
+2017-05-05 22:54:55,494 INFO 34527 [egg-security] use xssProtection middleware
+2017-05-05 22:54:55,495 INFO 34527 [egg-security] use xframe middleware
+2017-05-05 22:54:55,495 INFO 34527 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:54:55,517 INFO 34527 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:54:55,521 INFO 34527 [egg-watcher:app] watcher start success
+2017-05-05 22:54:55,525 INFO 34527 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 22:55:19,721 INFO 34531 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:55:19,760 INFO 34531 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:55:19,761 INFO 34531 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:55:19,792 INFO 34531 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:55:19,794 INFO 34531 [egg-security] use csrf middleware
+2017-05-05 22:55:19,795 INFO 34531 [egg-security] use methodnoallow middleware
+2017-05-05 22:55:19,795 INFO 34531 [egg-security] use noopen middleware
+2017-05-05 22:55:19,795 INFO 34531 [egg-security] use nosniff middleware
+2017-05-05 22:55:19,796 INFO 34531 [egg-security] use xssProtection middleware
+2017-05-05 22:55:19,796 INFO 34531 [egg-security] use xframe middleware
+2017-05-05 22:55:19,796 INFO 34531 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:55:19,817 INFO 34531 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:55:19,819 INFO 34531 [egg-watcher:app] watcher start success
+2017-05-05 22:55:19,824 INFO 34531 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 22:55:45,128 INFO 34538 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 22:55:45,167 INFO 34538 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 22:55:45,168 INFO 34538 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 22:55:45,199 INFO 34538 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 22:55:45,201 INFO 34538 [egg-security] use csrf middleware
+2017-05-05 22:55:45,202 INFO 34538 [egg-security] use methodnoallow middleware
+2017-05-05 22:55:45,202 INFO 34538 [egg-security] use noopen middleware
+2017-05-05 22:55:45,203 INFO 34538 [egg-security] use nosniff middleware
+2017-05-05 22:55:45,203 INFO 34538 [egg-security] use xssProtection middleware
+2017-05-05 22:55:45,203 INFO 34538 [egg-security] use xframe middleware
+2017-05-05 22:55:45,203 INFO 34538 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 22:55:45,222 INFO 34538 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 22:55:45,225 INFO 34538 [egg-watcher:app] watcher start success
+2017-05-05 22:55:45,231 INFO 34538 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 23:17:48,172 INFO 34679 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 23:17:48,215 INFO 34679 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 23:17:48,216 INFO 34679 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 23:17:48,253 INFO 34679 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 23:17:48,255 INFO 34679 [egg-security] use csrf middleware
+2017-05-05 23:17:48,256 INFO 34679 [egg-security] use methodnoallow middleware
+2017-05-05 23:17:48,256 INFO 34679 [egg-security] use noopen middleware
+2017-05-05 23:17:48,257 INFO 34679 [egg-security] use nosniff middleware
+2017-05-05 23:17:48,257 INFO 34679 [egg-security] use xssProtection middleware
+2017-05-05 23:17:48,258 INFO 34679 [egg-security] use xframe middleware
+2017-05-05 23:17:48,258 INFO 34679 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 23:17:48,278 INFO 34679 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 23:17:48,280 INFO 34679 [egg-watcher:app] watcher start success
+2017-05-05 23:17:48,284 INFO 34679 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 23:17:55,743 INFO 34680 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 23:17:55,785 INFO 34680 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 23:17:55,786 INFO 34680 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 23:17:55,822 INFO 34680 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 23:17:55,824 INFO 34680 [egg-security] use csrf middleware
+2017-05-05 23:17:55,825 INFO 34680 [egg-security] use methodnoallow middleware
+2017-05-05 23:17:55,825 INFO 34680 [egg-security] use noopen middleware
+2017-05-05 23:17:55,826 INFO 34680 [egg-security] use nosniff middleware
+2017-05-05 23:17:55,826 INFO 34680 [egg-security] use xssProtection middleware
+2017-05-05 23:17:55,826 INFO 34680 [egg-security] use xframe middleware
+2017-05-05 23:17:55,826 INFO 34680 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 23:17:55,847 INFO 34680 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 23:17:55,849 INFO 34680 [egg-watcher:app] watcher start success
+2017-05-05 23:17:55,853 INFO 34680 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 23:18:00,013 INFO 34681 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 23:18:00,053 INFO 34681 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 23:18:00,053 INFO 34681 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 23:18:00,087 INFO 34681 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 23:18:00,090 INFO 34681 [egg-security] use csrf middleware
+2017-05-05 23:18:00,091 INFO 34681 [egg-security] use methodnoallow middleware
+2017-05-05 23:18:00,091 INFO 34681 [egg-security] use noopen middleware
+2017-05-05 23:18:00,091 INFO 34681 [egg-security] use nosniff middleware
+2017-05-05 23:18:00,092 INFO 34681 [egg-security] use xssProtection middleware
+2017-05-05 23:18:00,092 INFO 34681 [egg-security] use xframe middleware
+2017-05-05 23:18:00,092 INFO 34681 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 23:18:00,114 INFO 34681 [ClusterClient:Watcher] gives up seizing port 50834, and serves as follower client.
+2017-05-05 23:18:00,116 INFO 34681 [egg-watcher:app] watcher start success
+2017-05-05 23:18:00,121 INFO 34681 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 23:21:44,269 INFO 34703 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 23:21:44,311 INFO 34703 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 23:21:44,312 INFO 34703 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 23:21:44,344 INFO 34703 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 23:21:44,346 INFO 34703 [egg-security] use csrf middleware
+2017-05-05 23:21:44,347 INFO 34703 [egg-security] use methodnoallow middleware
+2017-05-05 23:21:44,347 INFO 34703 [egg-security] use noopen middleware
+2017-05-05 23:21:44,348 INFO 34703 [egg-security] use nosniff middleware
+2017-05-05 23:21:44,348 INFO 34703 [egg-security] use xssProtection middleware
+2017-05-05 23:21:44,349 INFO 34703 [egg-security] use xframe middleware
+2017-05-05 23:21:44,349 INFO 34703 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 23:21:44,368 INFO 34703 [ClusterClient:Watcher] gives up seizing port 51977, and serves as follower client.
+2017-05-05 23:21:44,372 INFO 34703 [egg-watcher:app] watcher start success
+2017-05-05 23:21:44,378 INFO 34703 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 23:22:35,448 INFO 34714 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 23:22:35,487 INFO 34714 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 23:22:35,488 INFO 34714 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 23:22:35,522 INFO 34714 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 23:22:35,524 INFO 34714 [egg-security] use csrf middleware
+2017-05-05 23:22:35,526 INFO 34714 [egg-security] use methodnoallow middleware
+2017-05-05 23:22:35,526 INFO 34714 [egg-security] use noopen middleware
+2017-05-05 23:22:35,526 INFO 34714 [egg-security] use nosniff middleware
+2017-05-05 23:22:35,527 INFO 34714 [egg-security] use xssProtection middleware
+2017-05-05 23:22:35,528 INFO 34714 [egg-security] use xframe middleware
+2017-05-05 23:22:35,528 INFO 34714 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 23:22:35,548 INFO 34714 [ClusterClient:Watcher] gives up seizing port 51977, and serves as follower client.
+2017-05-05 23:22:35,551 INFO 34714 [egg-watcher:app] watcher start success
+2017-05-05 23:22:35,555 INFO 34714 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 23:23:18,472 INFO 34725 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 23:23:18,511 INFO 34725 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 23:23:18,511 INFO 34725 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 23:23:18,545 INFO 34725 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 23:23:18,547 INFO 34725 [egg-security] use csrf middleware
+2017-05-05 23:23:18,548 INFO 34725 [egg-security] use methodnoallow middleware
+2017-05-05 23:23:18,548 INFO 34725 [egg-security] use noopen middleware
+2017-05-05 23:23:18,549 INFO 34725 [egg-security] use nosniff middleware
+2017-05-05 23:23:18,549 INFO 34725 [egg-security] use xssProtection middleware
+2017-05-05 23:23:18,550 INFO 34725 [egg-security] use xframe middleware
+2017-05-05 23:23:18,550 INFO 34725 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 23:23:18,573 INFO 34725 [ClusterClient:Watcher] gives up seizing port 51977, and serves as follower client.
+2017-05-05 23:23:18,575 INFO 34725 [egg-watcher:app] watcher start success
+2017-05-05 23:23:18,579 INFO 34725 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 23:23:40,776 INFO 34731 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 23:23:40,814 INFO 34731 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 23:23:40,815 INFO 34731 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 23:23:40,845 INFO 34731 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 23:23:40,847 INFO 34731 [egg-security] use csrf middleware
+2017-05-05 23:23:40,848 INFO 34731 [egg-security] use methodnoallow middleware
+2017-05-05 23:23:40,848 INFO 34731 [egg-security] use noopen middleware
+2017-05-05 23:23:40,849 INFO 34731 [egg-security] use nosniff middleware
+2017-05-05 23:23:40,849 INFO 34731 [egg-security] use xssProtection middleware
+2017-05-05 23:23:40,850 INFO 34731 [egg-security] use xframe middleware
+2017-05-05 23:23:40,850 INFO 34731 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 23:23:40,870 INFO 34731 [ClusterClient:Watcher] gives up seizing port 51977, and serves as follower client.
+2017-05-05 23:23:40,873 INFO 34731 [egg-watcher:app] watcher start success
+2017-05-05 23:23:40,876 INFO 34731 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 23:23:57,689 INFO 34739 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 23:23:57,729 INFO 34739 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 23:23:57,730 INFO 34739 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 23:23:57,762 INFO 34739 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 23:23:57,764 INFO 34739 [egg-security] use csrf middleware
+2017-05-05 23:23:57,765 INFO 34739 [egg-security] use methodnoallow middleware
+2017-05-05 23:23:57,765 INFO 34739 [egg-security] use noopen middleware
+2017-05-05 23:23:57,765 INFO 34739 [egg-security] use nosniff middleware
+2017-05-05 23:23:57,766 INFO 34739 [egg-security] use xssProtection middleware
+2017-05-05 23:23:57,766 INFO 34739 [egg-security] use xframe middleware
+2017-05-05 23:23:57,766 INFO 34739 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 23:23:57,789 INFO 34739 [ClusterClient:Watcher] gives up seizing port 51977, and serves as follower client.
+2017-05-05 23:23:57,792 INFO 34739 [egg-watcher:app] watcher start success
+2017-05-05 23:23:57,796 INFO 34739 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 23:24:35,607 INFO 34746 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 23:24:35,646 INFO 34746 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 23:24:35,647 INFO 34746 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 23:24:35,680 INFO 34746 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 23:24:35,682 INFO 34746 [egg-security] use csrf middleware
+2017-05-05 23:24:35,683 INFO 34746 [egg-security] use methodnoallow middleware
+2017-05-05 23:24:35,683 INFO 34746 [egg-security] use noopen middleware
+2017-05-05 23:24:35,683 INFO 34746 [egg-security] use nosniff middleware
+2017-05-05 23:24:35,684 INFO 34746 [egg-security] use xssProtection middleware
+2017-05-05 23:24:35,684 INFO 34746 [egg-security] use xframe middleware
+2017-05-05 23:24:35,684 INFO 34746 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 23:24:35,707 INFO 34746 [ClusterClient:Watcher] gives up seizing port 51977, and serves as follower client.
+2017-05-05 23:24:35,710 INFO 34746 [egg-watcher:app] watcher start success
+2017-05-05 23:24:35,713 INFO 34746 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 23:29:10,845 INFO 34774 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 23:29:10,886 INFO 34774 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 23:29:10,887 INFO 34774 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 23:29:10,920 INFO 34774 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 23:29:10,922 INFO 34774 [egg-security] use csrf middleware
+2017-05-05 23:29:10,923 INFO 34774 [egg-security] use methodnoallow middleware
+2017-05-05 23:29:10,923 INFO 34774 [egg-security] use noopen middleware
+2017-05-05 23:29:10,924 INFO 34774 [egg-security] use nosniff middleware
+2017-05-05 23:29:10,924 INFO 34774 [egg-security] use xssProtection middleware
+2017-05-05 23:29:10,924 INFO 34774 [egg-security] use xframe middleware
+2017-05-05 23:29:10,924 INFO 34774 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 23:29:10,946 INFO 34774 [ClusterClient:Watcher] gives up seizing port 51977, and serves as follower client.
+2017-05-05 23:29:10,950 INFO 34774 [egg-watcher:app] watcher start success
+2017-05-05 23:29:10,954 INFO 34774 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 23:30:50,592 INFO 34784 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 23:30:50,631 INFO 34784 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 23:30:50,632 INFO 34784 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 23:30:50,663 INFO 34784 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 23:30:50,665 INFO 34784 [egg-security] use csrf middleware
+2017-05-05 23:30:50,666 INFO 34784 [egg-security] use methodnoallow middleware
+2017-05-05 23:30:50,666 INFO 34784 [egg-security] use noopen middleware
+2017-05-05 23:30:50,667 INFO 34784 [egg-security] use nosniff middleware
+2017-05-05 23:30:50,667 INFO 34784 [egg-security] use xssProtection middleware
+2017-05-05 23:30:50,667 INFO 34784 [egg-security] use xframe middleware
+2017-05-05 23:30:50,667 INFO 34784 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 23:30:50,689 INFO 34784 [ClusterClient:Watcher] gives up seizing port 51977, and serves as follower client.
+2017-05-05 23:30:50,692 INFO 34784 [egg-watcher:app] watcher start success
+2017-05-05 23:30:50,697 INFO 34784 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 23:30:53,195 INFO 34784 [egg-view-nunjucks] loading templates from ["/Users/wscart/Sites/node/eggcms/app/view"]
+2017-05-05 23:55:11,311 INFO 35051 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 23:55:11,349 INFO 35051 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 23:55:11,349 INFO 35051 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 23:55:11,380 INFO 35051 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 23:55:11,382 INFO 35051 [egg-security] use csrf middleware
+2017-05-05 23:55:11,382 INFO 35051 [egg-security] use methodnoallow middleware
+2017-05-05 23:55:11,383 INFO 35051 [egg-security] use noopen middleware
+2017-05-05 23:55:11,383 INFO 35051 [egg-security] use nosniff middleware
+2017-05-05 23:55:11,383 INFO 35051 [egg-security] use xssProtection middleware
+2017-05-05 23:55:11,384 INFO 35051 [egg-security] use xframe middleware
+2017-05-05 23:55:11,384 INFO 35051 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 23:55:11,403 INFO 35051 [ClusterClient:Watcher] gives up seizing port 54295, and serves as follower client.
+2017-05-05 23:55:11,407 INFO 35051 [egg-watcher:app] watcher start success
+2017-05-05 23:55:11,413 INFO 35051 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 23:55:27,166 INFO 35053 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"application"}
+2017-05-05 23:55:27,203 INFO 35053 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-05 23:55:27,204 INFO 35053 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-05 23:55:27,236 INFO 35053 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-05 23:55:27,239 INFO 35053 [egg-security] use csrf middleware
+2017-05-05 23:55:27,239 INFO 35053 [egg-security] use methodnoallow middleware
+2017-05-05 23:55:27,240 INFO 35053 [egg-security] use noopen middleware
+2017-05-05 23:55:27,240 INFO 35053 [egg-security] use nosniff middleware
+2017-05-05 23:55:27,240 INFO 35053 [egg-security] use xssProtection middleware
+2017-05-05 23:55:27,241 INFO 35053 [egg-security] use xframe middleware
+2017-05-05 23:55:27,241 INFO 35053 [egg-security] compose 6 middlewares into one security middleware
+2017-05-05 23:55:27,258 INFO 35053 [ClusterClient:Watcher] gives up seizing port 54295, and serves as follower client.
+2017-05-05 23:55:27,261 INFO 35053 [egg-watcher:app] watcher start success
+2017-05-05 23:55:27,265 INFO 35053 [Follower:Watcher] register to channel: Watcher success
+2017-05-05 23:55:29,902 INFO 35053 [egg-view-nunjucks] loading templates from ["/Users/wscart/Sites/node/eggcms/app/view"]
+2017-05-06 00:06:22,478 INFO 35053 [egg-schedule]: get message egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-06 00:06:22,484 INFO 35053 [egg-logrotator] broadcast log-reload
+2017-05-06 00:06:22,485 INFO 35053 [egg-logrotator] rotate files success by DayRotator, files ["/Users/wscart/Sites/node/eggcms/logs/eggcms/common-error.log -> /Users/wscart/Sites/node/eggcms/logs/eggcms/common-error.log.2017-05-05","/Users/wscart/Sites/node/eggcms/logs/eggcms/eggcms-web.log -> /Users/wscart/Sites/node/eggcms/logs/eggcms/eggcms-web.log.2017-05-05","/Users/wscart/Sites/node/eggcms/logs/eggcms/egg-web.log -> /Users/wscart/Sites/node/eggcms/logs/eggcms/egg-web.log.2017-05-05","/Users/wscart/Sites/node/eggcms/logs/eggcms/egg-agent.log -> /Users/wscart/Sites/node/eggcms/logs/eggcms/egg-agent.log.2017-05-05"]
+2017-05-06 00:06:22,485 INFO 35053 [egg-schedule] egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js excute succeed, used 6ms

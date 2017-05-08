@@ -1,0 +1,885 @@
+2017-05-05 22:43:40,362 ERROR 34416 [-/::1/-/7ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34416
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:44:23,814 ERROR 34416 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34416
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:45:00,572 ERROR 34432 [-/::1/-/8ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34432
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:45:01,301 ERROR 34432 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34432
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:45:58,738 ERROR 34432 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34432
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:46:47,519 ERROR 34432 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34432
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:46:48,232 ERROR 34432 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34432
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:48:18,176 ERROR 34455 [-/::1/-/7ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34455
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:51:20,877 ERROR 34472 [-/undefined/-/9ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+headerSent: true
+pid: 34472
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:51:20,984 ERROR 34472 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34472
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:51:21,427 ERROR 34472 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34472
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:51:21,658 ERROR 34472 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34472
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:52:58,733 ERROR 34472 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34472
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:52:59,469 ERROR 34472 [-/::1/-/0ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34472
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:52:59,829 ERROR 34472 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34472
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:53:00,061 ERROR 34472 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34472
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:53:00,262 ERROR 34472 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34472
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:53:19,437 ERROR 34505 [-/::1/-/7ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34505
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:53:35,633 ERROR 34507 [-/::1/-/6ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34507
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:53:36,347 ERROR 34507 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34507
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:54:00,828 ERROR 34513 [-/::1/-/7ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34513
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:54:01,426 ERROR 34513 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34513
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:54:28,794 ERROR 34521 [-/::1/-/6ms GET /] nodejs.AssertionError: Can't find news/list.tpl from /Users/wscart/Sites/node/eggcms/app/view
+    at Map.resolve (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/view_manager.js:74:5)
+    at resolve.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: undefined
+expected: true
+operator: '=='
+message: 'Can\'t find news/list.tpl from /Users/wscart/Sites/node/eggcms/app/view'
+generatedMessage: false
+pid: 34521
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:55:01,396 ERROR 34527 [-/::1/-/7ms GET /] nodejs.AssertionError: Can't find news/list.tpl from /Users/wscart/Sites/node/eggcms/app/view
+    at Map.resolve (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/view_manager.js:74:5)
+    at resolve.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: undefined
+expected: true
+operator: '=='
+message: 'Can\'t find news/list.tpl from /Users/wscart/Sites/node/eggcms/app/view'
+generatedMessage: false
+pid: 34527
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:55:22,298 ERROR 34531 [-/::1/-/7ms GET /] nodejs.AssertionError: Can't find list.tpl from /Users/wscart/Sites/node/eggcms/app/view
+    at Map.resolve (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/view_manager.js:74:5)
+    at resolve.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: undefined
+expected: true
+operator: '=='
+message: 'Can\'t find list.tpl from /Users/wscart/Sites/node/eggcms/app/view'
+generatedMessage: false
+pid: 34531
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:55:46,849 ERROR 34538 [-/::1/-/7ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:55:47,886 ERROR 34538 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:55:48,510 ERROR 34538 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:55:49,000 ERROR 34538 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:55:49,255 ERROR 34538 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:57:33,655 ERROR 34538 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:58:23,995 ERROR 34538 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 22:58:24,857 ERROR 34538 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:13:34,058 ERROR 34538 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:13:34,554 ERROR 34538 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:13:34,856 ERROR 34538 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:13:35,084 ERROR 34538 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:13:35,257 ERROR 34538 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:13:35,433 ERROR 34538 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:13:35,616 ERROR 34538 [-/::1/-/0ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:13:35,847 ERROR 34538 [-/::1/-/0ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:16:12,731 ERROR 34538 [-/::1/-/0ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34538
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:17:52,231 ERROR 34679 [-/::1/-/7ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34679
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:17:57,581 ERROR 34680 [-/::1/-/7ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34680
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:18:15,842 ERROR 34681 [-/::1/-/8ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34681
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:18:16,343 ERROR 34681 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34681
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:18:16,642 ERROR 34681 [-/::1/-/0ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34681
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:18:16,877 ERROR 34681 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34681
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:18:17,064 ERROR 34681 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34681
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:18:17,246 ERROR 34681 [-/::1/-/2ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34681
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:18:27,446 ERROR 34681 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34681
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:18:27,677 ERROR 34681 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34681
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:18:27,886 ERROR 34681 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34681
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:18:28,050 ERROR 34681 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34681
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:18:28,216 ERROR 34681 [-/::1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34681
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:21:46,471 ERROR 34703 [-/::1/-/7ms GET /] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/index.tpl'
+generatedMessage: false
+pid: 34703
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:24:04,553 ERROR 34739 [-/::1/-/3ms GET /news] nodejs.AssertionError: Can't find news/list.tpl from /Users/wscart/Sites/node/eggcms/app/view
+    at Map.resolve (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/view_manager.js:74:5)
+    at resolve.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: undefined
+expected: true
+operator: '=='
+message: 'Can\'t find news/list.tpl from /Users/wscart/Sites/node/eggcms/app/view'
+generatedMessage: false
+pid: 34739
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:24:27,243 ERROR 34739 [-/::1/-/3ms GET /news] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl'
+generatedMessage: false
+pid: 34739
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:24:27,953 ERROR 34739 [-/::1/-/2ms GET /news] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl'
+generatedMessage: false
+pid: 34739
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:24:28,232 ERROR 34739 [-/::1/-/2ms GET /news] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl'
+generatedMessage: false
+pid: 34739
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:24:28,463 ERROR 34739 [-/::1/-/1ms GET /news] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl'
+generatedMessage: false
+pid: 34739
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:24:28,649 ERROR 34739 [-/::1/-/1ms GET /news] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl'
+generatedMessage: false
+pid: 34739
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:24:28,841 ERROR 34739 [-/::1/-/1ms GET /news] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl'
+generatedMessage: false
+pid: 34739
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:24:29,080 ERROR 34739 [-/::1/-/1ms GET /news] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl'
+generatedMessage: false
+pid: 34739
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:24:38,393 ERROR 34746 [-/::1/-/8ms GET /news] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl'
+generatedMessage: false
+pid: 34746
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:24:38,952 ERROR 34746 [-/::1/-/1ms GET /news] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl'
+generatedMessage: false
+pid: 34746
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:24:39,278 ERROR 34746 [-/::1/-/0ms GET /news] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl'
+generatedMessage: false
+pid: 34746
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-05 23:24:39,500 ERROR 34746 [-/::1/-/0ms GET /news] nodejs.AssertionError: Can't find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view/lib/context_view.js:71:5)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/wscart/Sites/node/eggcms/node_modules/.4.6.0@co/index.js:65:19)
+name: 'AssertionError'
+actual: ''
+expected: true
+operator: '=='
+message: 'Can\'t find viewEngine for /Users/wscart/Sites/node/eggcms/app/view/news/list.tpl'
+generatedMessage: false
+pid: 34746
+hostname: wusichaodeMacBook-Pro.local
+
