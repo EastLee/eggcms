@@ -1,4 +1,6 @@
-# eggcms
+# EggCms
+
+> 基于Eggjs的内容管理系统
 
 
 
@@ -12,7 +14,7 @@
 ```bash
 $ npm install
 $ npm run dev
-$ open http://localhost:7001/news
+$ open http://localhost:7001
 ```
 
 ### 部署
