@@ -9088,7 +9088,6 @@ canvas {
   line-height: 36px;
 }
 .be-notifications .notification > a .notification-info {
-  padding-left: 50px;
   line-height: 14px;
 }
 .be-notifications .notification > a .notification-info .text {
@@ -9457,6 +9456,9 @@ canvas {
   background-color: #e7e7e7;
 }
 .be-left-sidebar .sidebar-elements > li ul li.active > a {
+  color: #4285f4;
+}
+.be-left-sidebar .sidebar-elements > li a.active {
   color: #4285f4;
 }
 .be-left-sidebar .sidebar-elements > li ul li ul {
@@ -16508,7 +16510,6 @@ fieldset[disabled] .btn-color.btn-evernote.active {
 }
 .panel-heading {
   font-size: 18px;
-  font-weight: 300;
   padding-left: 0;
   padding-right: 0;
   margin: 0 20px;

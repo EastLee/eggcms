@@ -1494,3 +1494,370 @@ name: 'Template render error'
 pid: 40724
 hostname: wusichaodeMacBook-Pro.local
 
+2017-05-08 19:10:41,331 ERROR 41876 nodejs.ClusterClientNoResponseError: client no response in 4136061ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 41876
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-08 21:01:51,635 ERROR 41876 nodejs.ClusterClientNoResponseError: client no response in 178079ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 41876
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-08 22:49:59,655 ERROR 41876 nodejs.ClusterClientNoResponseError: client no response in 6487857ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 41876
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 00:38:07,351 ERROR 41876 nodejs.ClusterClientNoResponseError: client no response in 6467427ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 41876
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 02:26:15,179 ERROR 41876 nodejs.ClusterClientNoResponseError: client no response in 6467510ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 41876
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 04:14:23,150 ERROR 41876 nodejs.ClusterClientNoResponseError: client no response in 6467842ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 41876
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 06:02:31,153 ERROR 41876 nodejs.ClusterClientNoResponseError: client no response in 6467800ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 41876
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 09:15:48,189 ERROR 41876 nodejs.ClusterClientNoResponseError: client no response in 11576911ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 41876
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 09:24:17,757 ERROR 41876 nodejs.ClusterClientNoResponseError: client no response in 339368ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 41876
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 11:50:43,489 ERROR 42897 nodejs.ClusterClientNoResponseError: client no response in 637355ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 42897
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 12:43:41,904 ERROR 42897 nodejs.ClusterClientNoResponseError: client no response in 387554ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 42897
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 13:57:49,133 ERROR 42897 nodejs.ClusterClientNoResponseError: client no response in 2506623ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 42897
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 15:01:05,002 ERROR 42897 nodejs.ClusterClientNoResponseError: client no response in 632761ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 42897
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 17:23:00,054 ERROR 47383 nodejs.ClusterClientNoResponseError: client no response in 91764ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 47383
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 18:57:45,002 ERROR 47383 nodejs.ClusterClientNoResponseError: client no response in 3604377ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 47383
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 19:57:56,719 ERROR 47383 nodejs.ClusterClientNoResponseError: client no response in 3601704ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 47383
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 20:58:49,099 ERROR 47383 nodejs.ClusterClientNoResponseError: client no response in 3602342ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 47383
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 21:59:41,315 ERROR 47383 nodejs.ClusterClientNoResponseError: client no response in 3602190ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 47383
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-09 23:00:34,002 ERROR 47383 nodejs.ClusterClientNoResponseError: client no response in 3602650ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 47383
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 00:01:26,247 ERROR 47383 nodejs.ClusterClientNoResponseError: client no response in 3602209ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 47383
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 01:02:08,406 ERROR 47383 nodejs.ClusterClientNoResponseError: client no response in 3602127ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 47383
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 02:03:30,284 ERROR 47383 nodejs.ClusterClientNoResponseError: client no response in 3601823ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 47383
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 03:04:12,453 ERROR 47383 nodejs.ClusterClientNoResponseError: client no response in 3602160ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 47383
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 04:05:14,151 ERROR 47383 nodejs.ClusterClientNoResponseError: client no response in 3601669ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 47383
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 07:08:00,315 ERROR 47383 nodejs.ClusterClientNoResponseError: client no response in 3602030ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 47383
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 08:08:43,002 ERROR 47383 nodejs.ClusterClientNoResponseError: client no response in 3602656ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 47383
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 09:09:35,242 ERROR 47383 nodejs.ClusterClientNoResponseError: client no response in 3602200ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 47383
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 09:13:54,495 ERROR 47383 nodejs.ClusterClientNoResponseError: client no response in 219227ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 47383
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 11:56:01,739 ERROR 51822 [-/127.0.0.1/-/2ms GET /content] nodejs.Template render error: (/Users/wscart/Sites/node/eggcms/app/view/content/index.tpl) [Line 19, Column 16]
+  expected block end in block statement
+  expected block end in block statement
+    at Object.exports.prettifyError (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/lib.js:34:15)
+    at new_cls.render (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/environment.js:472:27)
+    at /Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/environment.js:313:35
+    at createTemplate (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/environment.js:235:25)
+    at handle (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/environment.js:250:25)
+    at /Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/environment.js:264:21
+    at next (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/lib.js:207:13)
+    at Object.exports.asyncIter (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/environment.js:243:17)
+    at NunjucksEnvironment.render (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/environment.js:305:14)
+name: 'Template render error'
+pid: 51822
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 12:07:07,462 ERROR 51822 [-/127.0.0.1/-/1ms GET /content] nodejs.Template render error: (/Users/wscart/Sites/node/eggcms/app/view/content/index.tpl) [Line 19, Column 11]
+  expected block end in block statement
+  expected block end in block statement
+    at Object.exports.prettifyError (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/lib.js:34:15)
+    at new_cls.render (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/environment.js:472:27)
+    at /Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/environment.js:313:35
+    at createTemplate (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/environment.js:235:25)
+    at handle (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/environment.js:250:25)
+    at /Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/environment.js:264:21
+    at next (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/lib.js:207:13)
+    at Object.exports.asyncIter (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/environment.js:243:17)
+    at NunjucksEnvironment.render (/Users/wscart/Sites/node/eggcms/node_modules/.3.0.0@nunjucks/src/environment.js:305:14)
+name: 'Template render error'
+pid: 51822
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 18:28:30,010 ERROR 56708 nodejs.ClusterClientNoResponseError: client no response in 1204110ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 56708
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 18:40:06,470 ERROR 56708 nodejs.ClusterClientNoResponseError: client no response in 666417ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 56708
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 18:46:03,002 ERROR 56708 nodejs.ClusterClientNoResponseError: client no response in 336524ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 56708
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 18:57:29,991 ERROR 56708 nodejs.ClusterClientNoResponseError: client no response in 656963ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 56708
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 21:00:33,005 ERROR 56708 nodejs.ClusterClientNoResponseError: client no response in 7363000ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 56708
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 21:08:41,276 ERROR 56708 nodejs.ClusterClientNoResponseError: client no response in 458245ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 56708
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 21:20:29,873 ERROR 56708 nodejs.ClusterClientNoResponseError: client no response in 708247ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 56708
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 21:36:11,019 ERROR 56708 nodejs.ClusterClientNoResponseError: client no response in 911102ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 56708
+hostname: wusichaodeMacBook-Pro.local
+
+2017-05-10 22:07:01,386 ERROR 56708 nodejs.ClusterClientNoResponseError: client no response in 1850220ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wscart/Sites/node/eggcms/node_modules/.1.6.3@cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+name: 'ClusterClientNoResponseError'
+pid: 56708
+hostname: wusichaodeMacBook-Pro.local
+

@@ -7,8 +7,6 @@ var App = (function () {
     $('#editor1').summernote({
       height: 300
     });
-    
-    $("#editor2").markdown({buttonSize: 'normal'});
   };
 
   return App;

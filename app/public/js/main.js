@@ -646,3 +646,26 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
  * @license Released under the MIT license
  */
 !function(a){a.isBreakpoint=function(b){var c,d;return c=a("<div/>",{"class":"visible-"+b}).appendTo("body"),d=c.is(":visible"),c.remove(),d},a.extend(a,{isXs:function(){return a.isBreakpoint("xs")},isSm:function(){return a.isBreakpoint("sm")},isMd:function(){return a.isBreakpoint("md")},isLg:function(){return a.isBreakpoint("lg")}})}(jQuery);
+/*!
+ * jQuery
+ * 导航选中当前菜单显示高亮
+ *
+ */
+var nav = Array.prototype.slice.call(document.querySelectorAll('.sidebar-elements a'));
+var currentPath = location.pathname || location.href;
+nav.forEach(function(a) {
+    if(a.pathname === currentPath) {
+        a.classList.add('active');
+        var subMenu = $(".sub-menu a.active");
+        var sidebarElements = $(".sidebar-elements li a");
+        if(subMenu || sidebarElements){
+            subMenu.each(function(){
+                $(this).parent().parent().parent().addClass("open");
+            });
+        }else{
+            sidebarElements.each(function(){
+                $(this).parent().addClass("open");
+            });
+        }
+    };
+});

@@ -1605,3 +1605,1104 @@
 2017-05-08 17:19:38,572 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
 2017-05-08 17:19:58,514 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
 2017-05-08 17:19:59,356 INFO 40291 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:35:27,626 INFO 41876 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-08 17:35:27,645 INFO 41876 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-08 17:35:27,708 INFO 41876 [ClusterClient:Watcher] has seized port 53188, and serves as leader client.
+2017-05-08 17:35:27,710 INFO 41876 [egg-watcher:agent] watcher start success
+2017-05-08 17:35:28,329 INFO 41876 [Leader:Watcher] socket connected, port: 53191
+2017-05-08 17:40:54,203 WARN 41876 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/config/config.default.js change
+2017-05-08 17:40:54,000 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:40:54,774 INFO 41876 [Leader:Watcher] socket connected, port: 53308
+2017-05-08 17:43:16,468 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:44:58,794 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:45:19,904 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:45:20,710 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:45:20,939 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:45:49,194 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:46:11,267 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:46:14,203 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:46:17,518 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:46:37,698 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 17:48:53,651 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-08 19:10:41,334 INFO 41876 [Leader:Watcher] socket connected, port: 54786
+2017-05-08 21:01:51,640 INFO 41876 [Leader:Watcher] socket connected, port: 54852
+2017-05-08 22:49:59,775 INFO 41876 [Leader:Watcher] socket connected, port: 54886
+2017-05-09 00:38:07,599 INFO 41876 [Leader:Watcher] socket connected, port: 54910
+2017-05-09 02:26:15,282 INFO 41876 [Leader:Watcher] socket connected, port: 54949
+2017-05-09 04:14:23,297 INFO 41876 [Leader:Watcher] socket connected, port: 54972
+2017-05-09 06:02:31,223 INFO 41876 [Leader:Watcher] socket connected, port: 55001
+2017-05-09 09:15:48,337 INFO 41876 [Leader:Watcher] socket connected, port: 55024
+2017-05-09 09:24:17,783 INFO 41876 [Leader:Watcher] socket connected, port: 55187
+2017-05-09 09:38:18,244 WARN 41876 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js rename
+2017-05-09 09:38:18,039 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:38:18,042 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:38:25,027 WARN 41876 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js change
+2017-05-09 09:38:24,823 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:38:26,401 WARN 41876 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/home.js change
+2017-05-09 09:38:26,196 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:38:53,073 WARN 41876 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 09:38:52,869 INFO 41876 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:39:58,358 INFO 42897 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-09 09:39:58,370 INFO 42897 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-09 09:39:58,436 INFO 42897 [ClusterClient:Watcher] has seized port 55574, and serves as leader client.
+2017-05-09 09:39:58,439 INFO 42897 [egg-watcher:agent] watcher start success
+2017-05-09 09:39:59,133 INFO 42897 [Leader:Watcher] socket connected, port: 55577
+2017-05-09 09:41:25,567 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:41:25,773 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/service/index.js rename
+2017-05-09 09:41:26,419 INFO 42897 [Leader:Watcher] socket connected, port: 55607
+2017-05-09 09:41:47,130 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/login/index.js change
+2017-05-09 09:41:46,928 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:41:47,705 INFO 42897 [Leader:Watcher] socket connected, port: 55617
+2017-05-09 09:42:49,645 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:43:09,398 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:43:09,399 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:43:18,293 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:43:18,294 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:43:24,463 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/index.js rename
+2017-05-09 09:43:24,257 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:43:25,073 INFO 42897 [Leader:Watcher] socket connected, port: 55651
+2017-05-09 09:43:41,334 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/index.js change
+2017-05-09 09:43:41,131 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:43:41,886 INFO 42897 [Leader:Watcher] socket connected, port: 55657
+2017-05-09 09:44:26,849 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/index.js change
+2017-05-09 09:44:26,647 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:44:35,780 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/index.js change
+2017-05-09 09:44:35,578 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:44:36,392 INFO 42897 [Leader:Watcher] socket connected, port: 55699
+2017-05-09 09:45:03,509 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:45:06,832 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:45:06,833 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:45:16,456 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:45:31,624 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/SiteConfig.js rename
+2017-05-09 09:45:31,422 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:45:31,423 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:45:32,253 INFO 42897 [Leader:Watcher] socket connected, port: 55708
+2017-05-09 09:45:41,510 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:45:41,510 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:54:07,171 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:54:10,060 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:54:18,273 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:54:54,671 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:54:54,873 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/SiteConfig.js change
+2017-05-09 09:54:55,436 INFO 42897 [Leader:Watcher] socket connected, port: 56258
+2017-05-09 09:54:57,545 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/SiteConfig.js change
+2017-05-09 09:54:57,344 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:54:58,113 INFO 42897 [Leader:Watcher] socket connected, port: 56262
+2017-05-09 09:55:10,092 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 09:55:09,889 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:55:10,611 INFO 42897 [Leader:Watcher] socket connected, port: 56269
+2017-05-09 09:55:57,305 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 09:55:57,101 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:56:03,678 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 09:56:03,475 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:56:19,878 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 09:56:19,672 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:57:07,818 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/siteconfig.js rename
+2017-05-09 09:57:07,617 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:57:07,618 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:57:14,204 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:57:14,406 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 09:57:14,997 INFO 42897 [Leader:Watcher] socket connected, port: 56308
+2017-05-09 09:57:26,966 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:57:26,966 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:57:36,787 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 09:57:36,582 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:57:37,387 INFO 42897 [Leader:Watcher] socket connected, port: 56313
+2017-05-09 09:57:43,309 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:57:43,513 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/siteconfig.js change
+2017-05-09 09:57:44,107 INFO 42897 [Leader:Watcher] socket connected, port: 56321
+2017-05-09 09:58:18,892 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:58:37,932 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 09:59:21,724 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:01:24,383 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:01:48,764 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:02:37,210 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:03:24,326 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:03:32,562 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:03:39,425 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:03:47,010 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:03:59,073 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:05:03,431 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:05:36,010 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:08:22,953 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:09:35,672 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:10:57,390 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:11:12,430 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:12:01,114 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:12:12,709 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:12:19,788 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:12:33,579 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:13:05,988 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:14:22,029 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:14:48,872 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:14:56,545 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 10:14:56,344 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:14:57,110 INFO 42897 [Leader:Watcher] socket connected, port: 57842
+2017-05-09 10:15:20,677 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 10:15:20,474 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:15:21,313 INFO 42897 [Leader:Watcher] socket connected, port: 57853
+2017-05-09 10:15:31,859 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:15:42,090 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:15:44,945 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 10:15:44,740 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:15:45,565 INFO 42897 [Leader:Watcher] socket connected, port: 57868
+2017-05-09 10:15:47,521 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:16:18,829 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 10:16:53,447 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 11:50:43,493 INFO 42897 [Leader:Watcher] socket connected, port: 59414
+2017-05-09 12:43:41,906 INFO 42897 [Leader:Watcher] socket connected, port: 61318
+2017-05-09 13:57:49,136 INFO 42897 [Leader:Watcher] socket connected, port: 63852
+2017-05-09 14:03:07,502 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:03:07,552 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:03:14,447 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:03:14,447 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:03:59,440 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 14:03:59,237 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:04:15,069 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/siteconfig.1.js rename
+2017-05-09 14:04:14,867 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:04:28,435 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/mailconfig.js rename
+2017-05-09 14:04:28,231 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:04:28,232 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:04:29,021 INFO 42897 [Leader:Watcher] socket connected, port: 64147
+2017-05-09 14:04:38,631 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/mailconfig.js rename
+2017-05-09 14:04:38,429 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:04:39,211 INFO 42897 [Leader:Watcher] socket connected, port: 64151
+2017-05-09 14:04:54,947 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/mailconfig.js change
+2017-05-09 14:04:54,746 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:04:55,511 INFO 42897 [Leader:Watcher] socket connected, port: 64155
+2017-05-09 14:05:09,282 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:05:09,283 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:05:55,420 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:06:05,093 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:07:02,662 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:09:01,457 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:11:21,231 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:11:46,443 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:11:54,743 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:12:12,194 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:12:15,850 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:12:26,848 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:12:38,425 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:13:03,457 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:14:59,629 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:15:10,300 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:15:10,300 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:15:28,077 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:17:35,286 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:17:42,130 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:19:26,887 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:19:37,015 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:19:59,211 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/siteconfig.1.js rename
+2017-05-09 14:19:59,007 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:20:12,147 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/attachmentconfig.js rename
+2017-05-09 14:20:11,945 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:20:11,946 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:20:12,744 INFO 42897 [Leader:Watcher] socket connected, port: 50839
+2017-05-09 14:20:32,126 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/attachmentconfig.js change
+2017-05-09 14:20:31,921 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:20:32,655 INFO 42897 [Leader:Watcher] socket connected, port: 50850
+2017-05-09 14:20:45,674 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/attachmentconfig.js change
+2017-05-09 14:20:45,471 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:20:46,223 INFO 42897 [Leader:Watcher] socket connected, port: 50857
+2017-05-09 14:20:54,709 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/attachmentconfig.js change
+2017-05-09 14:20:54,505 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:20:55,251 INFO 42897 [Leader:Watcher] socket connected, port: 50862
+2017-05-09 14:21:07,714 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 14:21:07,510 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:21:08,268 INFO 42897 [Leader:Watcher] socket connected, port: 50870
+2017-05-09 14:21:15,235 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:22:17,571 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 14:22:17,366 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:22:18,186 INFO 42897 [Leader:Watcher] socket connected, port: 50912
+2017-05-09 14:22:21,750 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:22:30,756 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:22:30,961 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 14:22:31,530 INFO 42897 [Leader:Watcher] socket connected, port: 50918
+2017-05-09 14:22:55,645 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:27:33,226 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:27:48,143 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:29:15,012 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:30:25,377 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:31:04,685 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:31:13,918 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:31:16,680 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:32:22,467 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:32:51,732 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:33:09,426 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:34:40,145 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 14:35:25,453 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:01:05,008 INFO 42897 [Leader:Watcher] socket connected, port: 51660
+2017-05-09 15:03:57,791 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:04:21,382 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:04:21,388 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:05:54,772 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:05:54,975 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/category/siteconfig.js rename
+2017-05-09 15:05:55,547 INFO 42897 [Leader:Watcher] socket connected, port: 51814
+2017-05-09 15:05:59,556 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/category/index.js rename
+2017-05-09 15:05:59,353 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:05:59,354 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:06:00,151 INFO 42897 [Leader:Watcher] socket connected, port: 51817
+2017-05-09 15:07:33,968 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/category/index.js change
+2017-05-09 15:07:33,764 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:07:37,168 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:07:37,170 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:07:53,506 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/ColumnClassify/index.js change
+2017-05-09 15:07:53,300 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:07:54,072 INFO 42897 [Leader:Watcher] socket connected, port: 51930
+2017-05-09 15:08:17,874 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:08:25,866 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:08:29,340 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:08:29,341 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:08:40,742 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:08:59,399 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:08:59,404 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:09:09,914 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/ColumnClassify/index.js change
+2017-05-09 15:09:09,711 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:09:10,528 INFO 42897 [Leader:Watcher] socket connected, port: 51962
+2017-05-09 15:10:00,204 WARN 42897 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 15:10:00,000 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:10:22,068 INFO 42897 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:20:13,816 INFO 47383 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-09 15:20:13,836 INFO 47383 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-09 15:20:13,902 INFO 47383 [ClusterClient:Watcher] has seized port 52519, and serves as leader client.
+2017-05-09 15:20:13,904 INFO 47383 [egg-watcher:agent] watcher start success
+2017-05-09 15:20:14,520 INFO 47383 [Leader:Watcher] socket connected, port: 52526
+2017-05-09 15:21:10,828 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:21:19,886 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:21:54,292 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:21:58,486 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:22:04,784 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:22:23,979 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:22:38,518 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:23:46,892 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:25:13,634 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:25:26,573 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:26:44,108 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:26:47,796 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:27:58,377 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:28:13,692 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:28:58,018 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:29:14,340 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:30:29,844 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:32:02,005 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:33:08,874 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:34:21,554 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:34:52,703 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:36:11,006 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:36:20,488 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:37:05,490 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:37:14,637 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:37:20,257 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:39:12,197 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:39:35,557 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:40:14,747 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:40:33,837 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:40:42,024 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:40:57,224 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:42:32,680 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:42:48,341 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:43:07,557 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:43:39,316 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:44:23,589 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:44:50,940 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:46:21,344 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:47:06,546 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:47:21,833 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:48:13,635 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:48:37,773 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:49:05,697 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:49:48,162 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:50:09,130 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:50:30,186 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:50:52,852 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:51:47,242 WARN 47383 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/columnclassify/index.js change
+2017-05-09 15:51:47,037 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:51:48,008 INFO 47383 [Leader:Watcher] socket connected, port: 59275
+2017-05-09 15:51:55,296 WARN 47383 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/columnclassify/index.1.js rename
+2017-05-09 15:51:55,094 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:51:58,587 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:51:58,787 WARN 47383 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/columnclassify/index.1.js rename
+2017-05-09 15:51:59,582 INFO 47383 [Leader:Watcher] socket connected, port: 59329
+2017-05-09 15:52:09,698 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:52:13,069 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:52:13,070 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:52:34,712 WARN 47383 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-09 15:52:34,510 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:52:35,439 INFO 47383 [Leader:Watcher] socket connected, port: 59451
+2017-05-09 15:52:46,810 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:53:10,075 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:53:48,361 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:53:48,574 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:55:16,439 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:55:19,226 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:56:23,954 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:58:09,061 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:58:27,060 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:58:42,554 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 15:59:08,135 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:04:45,564 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:06:33,082 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:06:50,576 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:07:06,709 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:07:32,585 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:10:30,259 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:11:27,631 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:11:29,131 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:12:31,920 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:13:22,470 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:13:37,219 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:14:09,240 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:14:41,819 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:14:42,637 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:14:56,601 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:15:06,070 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:15:17,707 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:15:22,189 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:15:31,259 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:15:49,146 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:16:08,152 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:16:44,576 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:16:59,540 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:17:15,989 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:18:53,193 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:19:19,012 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:19:58,003 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:20:03,538 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:21:31,763 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:22:40,255 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:27:16,874 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:27:41,183 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:32:12,941 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:33:38,397 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:34:05,495 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:35:11,089 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:36:36,993 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:39:30,221 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:40:19,501 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:42:25,231 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:42:44,319 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:44:32,344 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:46:52,641 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:46:58,318 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:48:12,786 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:48:44,440 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:49:02,022 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:50:38,773 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:50:43,449 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:51:44,082 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:52:10,531 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:53:27,596 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:53:51,864 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:54:18,021 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:54:44,085 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:54:52,242 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:55:49,420 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:56:04,456 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:56:05,850 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:56:26,305 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:56:32,225 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:56:40,322 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 16:57:06,007 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-09 17:23:00,059 INFO 47383 [Leader:Watcher] socket connected, port: 57492
+2017-05-09 18:57:45,007 INFO 47383 [Leader:Watcher] socket connected, port: 58206
+2017-05-09 19:57:56,720 INFO 47383 [Leader:Watcher] socket connected, port: 58243
+2017-05-09 20:58:49,101 INFO 47383 [Leader:Watcher] socket connected, port: 58274
+2017-05-09 21:59:41,316 INFO 47383 [Leader:Watcher] socket connected, port: 58315
+2017-05-09 23:00:34,007 INFO 47383 [Leader:Watcher] socket connected, port: 58355
+2017-05-10 00:01:26,249 INFO 47383 [Leader:Watcher] socket connected, port: 58422
+2017-05-10 01:02:08,407 INFO 47383 [Leader:Watcher] socket connected, port: 58446
+2017-05-10 02:03:30,285 INFO 47383 [Leader:Watcher] socket connected, port: 58507
+2017-05-10 03:04:12,455 INFO 47383 [Leader:Watcher] socket connected, port: 58525
+2017-05-10 04:05:14,152 INFO 47383 [Leader:Watcher] socket connected, port: 58585
+2017-05-10 07:08:00,317 INFO 47383 [Leader:Watcher] socket connected, port: 58732
+2017-05-10 08:08:43,010 INFO 47383 [Leader:Watcher] socket connected, port: 58747
+2017-05-10 09:09:35,243 INFO 47383 [Leader:Watcher] socket connected, port: 58792
+2017-05-10 09:13:54,497 INFO 47383 [Leader:Watcher] socket connected, port: 58854
+2017-05-10 09:27:22,648 INFO 47383 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 09:28:30,224 INFO 50369 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-10 09:28:30,240 INFO 50369 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-10 09:28:30,305 INFO 50369 [ClusterClient:Watcher] has seized port 59555, and serves as leader client.
+2017-05-10 09:28:30,307 INFO 50369 [egg-watcher:agent] watcher start success
+2017-05-10 09:28:30,958 INFO 50369 [Leader:Watcher] socket connected, port: 59560
+2017-05-10 09:55:26,507 INFO 50649 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-10 09:55:26,521 INFO 50649 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-10 09:55:26,590 INFO 50649 [ClusterClient:Watcher] has seized port 60986, and serves as leader client.
+2017-05-10 09:55:26,593 INFO 50649 [egg-watcher:agent] watcher start success
+2017-05-10 09:55:27,265 INFO 50649 [Leader:Watcher] socket connected, port: 60989
+2017-05-10 09:57:51,980 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 09:58:29,665 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 09:58:37,122 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:01:24,126 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:01:37,736 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:01:42,083 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:01:53,866 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:02:01,314 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/adminmanage/index.js rename
+2017-05-10 10:02:01,110 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:02:02,063 INFO 50649 [Leader:Watcher] socket connected, port: 61240
+2017-05-10 10:02:27,156 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/adminmanage/index.js change
+2017-05-10 10:02:26,952 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:02:27,725 INFO 50649 [Leader:Watcher] socket connected, port: 61252
+2017-05-10 10:02:50,625 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:02:50,830 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/adminmanage/index.js change
+2017-05-10 10:02:51,401 INFO 50649 [Leader:Watcher] socket connected, port: 61257
+2017-05-10 10:03:27,706 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 10:03:27,505 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:03:28,279 INFO 50649 [Leader:Watcher] socket connected, port: 61264
+2017-05-10 10:06:20,497 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:06:55,881 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:07:23,724 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:07:44,582 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:08:08,003 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 10:08:07,799 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:08:08,637 INFO 50649 [Leader:Watcher] socket connected, port: 61328
+2017-05-10 10:09:07,222 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:09:27,121 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:09:53,217 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:10:51,462 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:11:55,709 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:12:05,969 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:12:21,614 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:12:55,564 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:13:00,408 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:13:05,717 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:15:51,166 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:16:15,123 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:16:53,902 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:17:13,469 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:18:36,820 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:19:48,266 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:20:57,195 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:21:36,454 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:22:04,021 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:22:31,150 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:22:33,347 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:23:55,817 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:25:17,301 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:25:17,302 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:25:26,043 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:25:26,044 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:25:26,044 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:25:37,776 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:25:37,777 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:25:37,786 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:25:37,986 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/adminmanage.1/index.js rename
+2017-05-10 10:25:45,849 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:25:45,855 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:25:45,856 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:26:15,929 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/rolemanage/index.js change
+2017-05-10 10:26:15,728 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:26:16,591 INFO 50649 [Leader:Watcher] socket connected, port: 64117
+2017-05-10 10:26:26,030 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:26:26,232 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/rolemanage/index.js change
+2017-05-10 10:26:26,830 INFO 50649 [Leader:Watcher] socket connected, port: 64162
+2017-05-10 10:27:34,028 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 10:27:33,823 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:27:34,631 INFO 50649 [Leader:Watcher] socket connected, port: 64457
+2017-05-10 10:27:55,718 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:29:11,831 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:32:01,002 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:32:55,128 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:33:50,436 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:34:03,100 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:34:40,238 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:34:49,337 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:40:22,401 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:49:32,326 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/columnclassify/1 rename
+2017-05-10 10:49:32,124 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:49:32,124 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:49:39,958 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:49:39,964 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:49:39,965 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:50:08,322 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/custompage/index.js change
+2017-05-10 10:50:08,118 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:50:08,906 INFO 50649 [Leader:Watcher] socket connected, port: 50234
+2017-05-10 10:50:19,931 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:50:20,136 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/custompage/index.js change
+2017-05-10 10:50:20,711 INFO 50649 [Leader:Watcher] socket connected, port: 50287
+2017-05-10 10:50:38,754 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:50:38,754 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:50:49,689 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:50:49,690 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:50:49,690 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:51:26,823 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:51:26,824 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:51:44,066 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:51:44,267 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/custompage/index.js change
+2017-05-10 10:51:44,860 INFO 50649 [Leader:Watcher] socket connected, port: 50642
+2017-05-10 10:53:27,275 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:53:48,772 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:53:57,889 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:54:34,611 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:54:34,815 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 10:54:44,477 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 10:54:44,276 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:55:03,815 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:55:47,018 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:55:47,018 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:56:01,771 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:56:01,973 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/custompage/index.js change
+2017-05-10 10:56:02,561 INFO 50649 [Leader:Watcher] socket connected, port: 51570
+2017-05-10 10:56:13,749 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 10:56:13,544 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:56:14,402 INFO 50649 [Leader:Watcher] socket connected, port: 51616
+2017-05-10 10:57:01,859 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:57:12,104 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:57:25,490 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:57:37,443 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:59:35,825 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:59:35,825 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:59:43,202 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:59:43,214 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 10:59:43,217 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:01:54,034 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:03:45,297 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:04:00,085 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/custompage/1 rename
+2017-05-10 11:03:59,881 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:03:59,882 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:04:17,497 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:04:17,503 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:04:17,503 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:04:45,939 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/content/index.js change
+2017-05-10 11:04:45,734 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:04:46,556 INFO 50649 [Leader:Watcher] socket connected, port: 53165
+2017-05-10 11:05:14,000 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 11:05:13,794 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:05:14,654 INFO 50649 [Leader:Watcher] socket connected, port: 53269
+2017-05-10 11:06:10,414 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:06:44,233 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:06:52,219 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:08:45,625 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:10:06,077 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:11:31,592 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:12:00,889 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:12:17,584 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:12:19,869 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:14:09,504 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:14:15,983 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:14:34,964 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:14:39,509 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:20:18,412 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:20:33,427 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:20:39,343 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:20:43,556 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:20:53,231 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:20:56,683 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:21:01,350 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:21:04,373 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:21:08,630 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:21:11,462 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:21:14,679 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:21:18,100 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:21:58,797 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:22:10,344 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:22:20,284 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:22:41,947 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:22:48,147 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:22:57,305 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:23:02,985 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:23:21,335 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:23:30,615 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:23:36,228 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:23:40,211 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:23:48,157 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:24:00,680 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:24:42,103 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:25:13,998 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:25:30,441 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:25:39,919 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:40:14,448 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:40:14,730 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:40:25,640 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:46:57,166 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:49:01,801 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:49:03,885 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:49:58,215 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:50:27,921 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:52:54,214 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:54:55,597 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:55:28,121 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:55:36,175 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:55:54,224 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:55:59,494 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:56:08,373 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:56:11,848 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:56:30,481 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:57:04,854 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 11:57:13,954 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:00:06,484 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:05:58,666 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:06:53,546 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:07:04,058 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:07:18,727 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:07:22,016 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:08:36,051 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:08:52,371 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:09:09,730 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:09:19,411 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:09:19,411 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:09:19,462 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:09:33,937 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:09:39,658 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:09:59,633 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:10:12,827 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:10:12,827 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:10:50,781 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:11:02,596 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:11:21,099 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:11:33,749 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:29:19,678 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:29:35,332 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:30:57,489 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:32:13,471 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:32:33,732 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:33:22,099 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:34:34,208 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:34:45,505 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:35:30,028 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:35:45,412 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:35:57,991 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:36:21,973 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:36:41,481 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:36:55,602 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:38:59,001 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:39:05,058 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:39:47,228 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:39:54,605 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:40:22,152 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:40:24,919 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 12:41:22,299 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:17:39,744 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:19:54,824 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:19:54,824 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:20:06,476 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:20:06,477 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:20:06,478 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:20:20,353 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:20:38,263 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:20:38,263 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:21:08,227 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/adminmanage/1 rename
+2017-05-10 14:21:08,026 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:21:08,027 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:21:28,323 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/adminmanage/1 rename
+2017-05-10 14:21:28,121 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:21:28,122 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:21:28,122 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:21:29,042 INFO 50649 [Leader:Watcher] socket connected, port: 51680
+2017-05-10 14:22:37,368 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/usermanage/index.js change
+2017-05-10 14:22:37,164 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:22:37,978 INFO 50649 [Leader:Watcher] socket connected, port: 51713
+2017-05-10 14:23:47,543 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 14:23:47,338 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:23:48,098 INFO 50649 [Leader:Watcher] socket connected, port: 51736
+2017-05-10 14:24:22,487 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:24:33,953 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:25:02,157 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:25:43,553 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:26:15,949 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:26:58,234 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:37:14,541 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:37:14,542 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:37:31,476 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:37:31,477 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:37:31,477 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:38:01,547 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:38:23,514 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:38:32,799 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:38:32,799 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:38:43,770 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:39:09,911 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:39:24,369 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:39:37,039 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/adminmanage/1 rename
+2017-05-10 14:39:36,833 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:39:36,833 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:39:52,443 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:39:52,444 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:39:52,449 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:40:56,523 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/contentmodel/index.js change
+2017-05-10 14:40:56,318 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:40:57,162 INFO 50649 [Leader:Watcher] socket connected, port: 52290
+2017-05-10 14:41:09,249 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:41:09,250 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:41:18,193 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:41:18,194 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:41:31,005 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:41:31,205 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/modelmanage/index.js change
+2017-05-10 14:41:31,905 INFO 50649 [Leader:Watcher] socket connected, port: 52299
+2017-05-10 14:42:54,641 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 14:42:54,436 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:42:55,316 INFO 50649 [Leader:Watcher] socket connected, port: 52336
+2017-05-10 14:43:38,550 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:44:31,872 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/adminmanage/1 rename
+2017-05-10 14:44:31,668 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:44:31,669 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:44:39,381 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:44:39,382 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:44:39,383 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:44:39,583 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/adminmanage/1 rename
+2017-05-10 14:44:40,244 INFO 50649 [Leader:Watcher] socket connected, port: 52387
+2017-05-10 14:44:49,012 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:44:49,020 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:44:49,020 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:44:49,021 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:46:05,554 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/recommendedmanage/index.js change
+2017-05-10 14:46:05,354 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:46:06,213 INFO 50649 [Leader:Watcher] socket connected, port: 52489
+2017-05-10 14:46:29,069 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:46:29,069 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:46:42,033 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:46:42,039 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:46:42,039 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:47:03,933 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:47:15,348 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:48:07,343 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 14:48:07,142 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:48:07,957 INFO 50649 [Leader:Watcher] socket connected, port: 52529
+2017-05-10 14:48:26,068 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:49:07,624 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/recommendedmanage/index.js change
+2017-05-10 14:49:07,419 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:49:08,280 INFO 50649 [Leader:Watcher] socket connected, port: 52569
+2017-05-10 14:49:42,805 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:49:42,806 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:49:49,294 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:49:49,301 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:49:58,477 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:50:03,880 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:50:03,880 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:50:17,253 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:50:43,280 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:50:43,481 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/content/index.js change
+2017-05-10 14:50:44,131 INFO 50649 [Leader:Watcher] socket connected, port: 52600
+2017-05-10 14:51:06,071 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 14:51:05,871 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:51:06,764 INFO 50649 [Leader:Watcher] socket connected, port: 52607
+2017-05-10 14:52:07,505 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:52:07,710 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/content/index.js change
+2017-05-10 14:52:08,334 INFO 50649 [Leader:Watcher] socket connected, port: 52642
+2017-05-10 14:53:25,420 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 14:53:25,212 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:53:26,107 INFO 50649 [Leader:Watcher] socket connected, port: 52672
+2017-05-10 14:54:09,898 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 14:54:09,694 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:54:12,998 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:54:12,999 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:54:18,443 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/content/index.js change
+2017-05-10 14:54:18,238 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:54:24,629 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 14:54:24,424 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:54:35,259 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/content/index.js change
+2017-05-10 14:54:35,055 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:54:35,847 INFO 50649 [Leader:Watcher] socket connected, port: 52709
+2017-05-10 14:55:28,560 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:55:46,492 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:56:00,630 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:56:00,631 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:56:11,539 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/content/1 rename
+2017-05-10 14:56:11,334 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:56:11,334 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:56:11,335 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:56:12,159 INFO 50649 [Leader:Watcher] socket connected, port: 52761
+2017-05-10 14:56:51,709 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/attachment/index.js change
+2017-05-10 14:56:51,504 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:56:52,327 INFO 50649 [Leader:Watcher] socket connected, port: 52777
+2017-05-10 14:57:23,106 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 14:57:22,903 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 14:57:23,721 INFO 50649 [Leader:Watcher] socket connected, port: 52788
+2017-05-10 14:58:28,884 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:04:55,081 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:10:56,534 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:11:02,927 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:17:39,609 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:20:53,966 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:21:03,604 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:21:58,539 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:22:08,338 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:22:21,883 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:29:27,818 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:30:06,438 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:53:41,018 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:54:53,725 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:56:03,369 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:57:02,153 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/adminmanage/1 rename
+2017-05-10 15:57:01,948 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:57:01,949 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:57:08,520 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:57:08,529 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:57:08,530 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:59:06,703 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/controller/system/log/index.js change
+2017-05-10 15:59:06,498 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:59:07,390 INFO 50649 [Leader:Watcher] socket connected, port: 56089
+2017-05-10 15:59:21,628 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:59:21,628 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:59:25,957 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:59:25,965 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:59:25,966 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:59:32,030 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:59:42,989 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:59:46,452 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:59:57,240 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 15:59:57,240 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:00:06,182 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:00:06,182 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:00:13,009 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:00:13,010 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:00:30,578 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:00:44,212 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:00:53,482 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:02:54,383 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:02:54,583 WARN 50649 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/router.js change
+2017-05-10 16:02:55,281 INFO 50649 [Leader:Watcher] socket connected, port: 56134
+2017-05-10 16:06:23,005 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:07:27,562 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:08:01,389 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:08:11,900 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:08:31,224 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:08:53,537 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:09:12,696 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:09:20,550 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:09:41,778 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:10:33,573 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:10:42,811 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:12:24,017 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:12:26,205 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:12:29,865 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:26:22,133 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:26:22,134 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:34:31,333 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:35:32,740 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:36:10,705 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:36:54,051 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:37:09,304 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:37:09,934 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:37:10,181 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:37:10,418 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:37:59,509 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:38:13,351 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:38:53,705 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:38:54,095 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:38:54,381 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:39:34,477 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:39:41,678 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:39:41,969 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:39:42,196 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:40:10,238 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:40:14,830 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 16:40:20,490 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:00:24,365 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:00:31,614 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:11:38,529 INFO 50649 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:34:55,625 INFO 56612 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-10 17:34:55,648 INFO 56612 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-10 17:34:55,845 INFO 56612 [ClusterClient:Watcher] has seized port 62264, and serves as leader client.
+2017-05-10 17:34:55,858 INFO 56612 [egg-watcher:agent] watcher start success
+2017-05-10 17:34:56,960 INFO 56612 [Leader:Watcher] socket connected, port: 62267
+2017-05-10 17:37:51,407 INFO 56612 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:37:59,818 INFO 56612 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:38:03,450 INFO 56612 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:38:43,321 INFO 56679 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-10 17:38:43,343 INFO 56679 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-10 17:38:43,440 INFO 56679 [ClusterClient:Watcher] has seized port 63022, and serves as leader client.
+2017-05-10 17:38:43,442 INFO 56679 [egg-watcher:agent] watcher start success
+2017-05-10 17:38:44,290 INFO 56679 [Leader:Watcher] socket connected, port: 63025
+2017-05-10 17:38:58,224 INFO 56679 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:38:58,439 INFO 56679 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:39:14,431 INFO 56708 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-10 17:39:14,448 INFO 56708 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-10 17:39:14,524 INFO 56708 [ClusterClient:Watcher] has seized port 63037, and serves as leader client.
+2017-05-10 17:39:14,526 INFO 56708 [egg-watcher:agent] watcher start success
+2017-05-10 17:39:15,459 INFO 56708 [Leader:Watcher] socket connected, port: 63040
+2017-05-10 17:40:12,754 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:40:32,206 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:41:21,491 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:44:16,911 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:49:27,929 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:51:03,993 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:51:20,623 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:52:09,265 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:53:30,898 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:53:44,074 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:54:58,095 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:55:10,892 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:57:26,354 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:57:57,778 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:58:33,852 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:58:54,073 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:58:55,952 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 17:59:53,378 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 18:01:18,035 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 18:01:19,660 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 18:01:46,566 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 18:02:33,254 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 18:03:15,251 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 18:03:29,410 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 18:03:45,474 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 18:04:20,486 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 18:06:06,831 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 18:06:11,980 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 18:06:52,820 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 18:07:17,528 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 18:07:31,120 INFO 56708 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 18:28:30,031 INFO 56708 [Leader:Watcher] socket connected, port: 52240
+2017-05-10 18:40:06,473 INFO 56708 [Leader:Watcher] socket connected, port: 52246
+2017-05-10 18:46:03,009 INFO 56708 [Leader:Watcher] socket connected, port: 52248
+2017-05-10 18:57:29,992 INFO 56708 [Leader:Watcher] socket connected, port: 52250
+2017-05-10 21:00:33,017 INFO 56708 [Leader:Watcher] socket connected, port: 52252
+2017-05-10 21:08:41,277 INFO 56708 [Leader:Watcher] socket connected, port: 52257
+2017-05-10 21:20:29,905 INFO 56708 [Leader:Watcher] socket connected, port: 52259
+2017-05-10 21:36:11,021 INFO 56708 [Leader:Watcher] socket connected, port: 52320
+2017-05-10 22:07:01,657 INFO 56708 [Leader:Watcher] socket connected, port: 52372
+2017-05-10 22:08:33,160 INFO 57327 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-10 22:08:33,178 INFO 57327 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-10 22:08:33,263 INFO 57327 [ClusterClient:Watcher] has seized port 52539, and serves as leader client.
+2017-05-10 22:08:33,265 INFO 57327 [egg-watcher:agent] watcher start success
+2017-05-10 22:08:34,155 INFO 57327 [Leader:Watcher] socket connected, port: 52542
+2017-05-10 22:11:07,242 INFO 57327 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:13:20,602 INFO 57327 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:13:47,626 INFO 57327 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:14:05,146 INFO 57327 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:14:05,393 INFO 57327 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:14:10,027 INFO 57327 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:14:51,020 INFO 57327 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:21:54,866 INFO 57327 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:22:37,959 INFO 57327 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:23:08,818 INFO 57327 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:29:22,508 INFO 57327 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:30:45,921 INFO 57327 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:33:33,440 INFO 57800 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-10 22:33:33,457 INFO 57800 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-10 22:33:33,514 INFO 57800 [ClusterClient:Watcher] has seized port 57094, and serves as leader client.
+2017-05-10 22:33:33,516 INFO 57800 [egg-watcher:agent] watcher start success
+2017-05-10 22:33:34,346 INFO 57800 [Leader:Watcher] socket connected, port: 57107
+2017-05-10 22:34:36,418 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:35:43,655 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:35:54,833 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:36:25,143 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:37:16,835 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:38:59,250 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:40:53,059 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:41:39,418 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:41:40,531 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:41:58,139 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:42:12,509 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:42:32,781 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:43:04,446 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:43:26,829 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:44:07,384 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:44:23,537 INFO 57800 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:44:28,235 INFO 58018 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-10 22:44:28,248 INFO 58018 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-10 22:44:28,312 INFO 58018 [ClusterClient:Watcher] has seized port 59378, and serves as leader client.
+2017-05-10 22:44:28,315 INFO 58018 [egg-watcher:agent] watcher start success
+2017-05-10 22:44:29,159 INFO 58018 [Leader:Watcher] socket connected, port: 59385
+2017-05-10 22:45:24,931 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:45:26,306 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:46:25,009 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:48:41,343 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:48:43,286 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:49:24,686 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:49:40,299 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:50:04,346 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:50:06,161 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:50:18,885 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:51:12,472 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:51:56,435 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:56:05,804 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 22:57:08,962 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 23:00:33,114 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 23:04:28,061 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 23:05:06,564 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 23:06:32,806 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 23:06:37,572 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-10 23:07:50,440 INFO 58018 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 09:23:28,997 INFO 58682 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-11 09:23:29,025 INFO 58682 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-11 09:23:29,155 INFO 58682 [ClusterClient:Watcher] has seized port 50475, and serves as leader client.
+2017-05-11 09:23:29,157 INFO 58682 [egg-watcher:agent] watcher start success
+2017-05-11 09:23:30,662 INFO 58682 [Leader:Watcher] socket connected, port: 50488
+2017-05-11 09:24:55,443 INFO 58682 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 09:32:10,918 INFO 58682 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 09:35:05,011 INFO 58682 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 09:35:37,165 INFO 58682 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 09:36:42,617 INFO 58842 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-05-11 09:36:42,635 INFO 58842 [ClusterClient:Watcher] subscribe ["/Users/wscart/Sites/node/eggcms/app","/Users/wscart/Sites/node/eggcms/config","/Users/wscart/Sites/node/eggcms/mocks","/Users/wscart/Sites/node/eggcms/mocks_proxy"]
+2017-05-11 09:36:42,714 INFO 58842 [ClusterClient:Watcher] has seized port 52291, and serves as leader client.
+2017-05-11 09:36:42,717 INFO 58842 [egg-watcher:agent] watcher start success
+2017-05-11 09:36:43,756 INFO 58842 [Leader:Watcher] socket connected, port: 52298
+2017-05-11 09:37:13,624 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 09:38:17,663 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 09:39:12,482 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 09:39:20,961 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 09:40:41,086 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 09:41:01,960 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:06:58,040 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:07:22,206 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:09:08,984 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:09:39,713 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:09:53,809 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:10:09,202 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:10:16,670 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:10:31,350 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:12:30,182 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:13:24,540 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:13:27,328 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:14:09,631 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:14:17,527 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:14:30,382 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:14:47,565 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:14:59,128 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:15:06,977 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:15:21,244 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:16:28,451 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:18:03,773 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:18:11,853 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:22:22,132 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:22:24,522 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:23:20,864 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:24:24,843 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:24:34,331 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:24:38,369 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:24:59,470 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:26:47,720 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:27:17,028 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:27:17,446 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:29:38,992 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:30:39,060 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:31:07,269 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:31:17,902 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:31:26,960 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:31:38,062 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:31:47,934 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:31:53,053 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:32:33,663 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:33:28,097 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:34:44,163 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:34:48,104 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:35:26,374 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:35:48,118 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:36:04,396 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:36:09,962 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:37:02,849 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:37:15,413 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:37:25,162 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:37:36,802 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:39:04,802 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:48:23,285 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:49:49,557 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:52:17,435 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:52:59,069 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:54:04,373 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:55:29,657 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:56:49,147 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:57:20,580 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:57:48,766 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:59:12,155 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:59:24,958 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 10:59:50,018 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 11:00:18,330 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 11:00:30,146 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 11:00:46,352 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 11:01:31,979 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 11:02:48,759 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 11:03:18,217 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 11:04:27,829 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 11:04:32,040 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-05-11 11:04:36,063 INFO 58842 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1

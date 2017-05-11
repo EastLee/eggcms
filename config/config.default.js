@@ -5,7 +5,7 @@ module.exports = appInfo => {
 
   // should change to your own
   config.keys = appInfo.name + '_1493995111458_7874';
-  // 配置模板
+  // 配置引擎模板
   config.view = {
     defaultViewEngine: 'nunjucks',
     mapping: {
