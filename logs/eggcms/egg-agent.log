@@ -872,3 +872,10 @@
 2017-05-12 19:44:30,409 WARN 78670 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/service/siteconfig.js change
 2017-05-12 19:46:07,678 WARN 78670 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/service/siteconfig.js change
 2017-05-12 19:46:11,476 WARN 78670 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/service/siteconfig.js change
+2017-05-12 19:52:03,405 INFO 79372 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-05-12 19:52:03,517 INFO 79372 [egg-watcher:agent] watcher start success
+2017-05-12 19:52:38,458 WARN 79372 [agent:development] reload worker because /Users/wscart/Sites/node/eggcms/app/service/siteconfig.js change
+2017-05-12 20:02:06,849 INFO 79568 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-05-12 20:02:06,920 INFO 79568 [egg-watcher:agent] watcher start success
+2017-05-12 20:31:37,651 INFO 80042 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-05-12 20:31:37,732 INFO 80042 [egg-watcher:agent] watcher start success

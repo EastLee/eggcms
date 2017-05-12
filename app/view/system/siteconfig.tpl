@@ -28,37 +28,37 @@
                     <div class="form-group">
                       <label class="col-sm-3 control-label">网站名称</label>
                       <div class="col-sm-6">
-                        <input type="text" required="" class="form-control" value="{{ site_name }}">
+                        <input type="text" id="site_name" required="" class="form-control" value="{{ site_name }}">
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">关键词</label>
                       <div class="col-sm-6">
-                        <input type="text" required="" class="form-control" value="{{ site_keywords }}">
+                        <input type="text" id="site_keywords" required="" class="form-control" value="{{ site_keywords }}">
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">联系邮箱</label>
                       <div class="col-sm-6">
-                        <input type="text" required="" class="form-control" value="{{ site_mail }}">
+                        <input type="text" id="site_mail" required="" class="form-control" value="{{ site_mail }}">
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">备案编号</label>
                       <div class="col-sm-6">
-                        <input type="text" required="" class="form-control" value="{{ site_beian }}">
+                        <input type="text" id="site_beian" required="" class="form-control" value="{{ site_beian }}">
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">站点简介</label>
                       <div class="col-sm-6">
-                        <textarea required="" class="form-control">{{ site_description }}</textarea>
+                        <textarea id="site_description" required="" class="form-control">{{ site_description }}</textarea>
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">统计代码</label>
                       <div class="col-sm-6">
-                        <textarea required="" class="form-control">{{ site_statistic }}</textarea>
+                        <textarea id="site_statistic" required="" class="form-control">{{ site_statistic }}</textarea>
                       </div>
                     </div>
                     <div class="form-group">
@@ -96,14 +96,13 @@
       	App.init();
       });
       $("button[type=submit]").click(function(){
-        const dataStr = {
-          site_name:'{{ site_name }}',
-          site_keywords:'{{ site_keywords }}',
-          site_mail:'{{ site_mail }}',
-          site_beian:'{{ site_beian }}',
-          site_description:'{{ site_description }}',
-          site_statistic:'{{ site_statistic }}'
-        }
+        const dataStr = {};
+        dataStr.site_name = $('#site_name').val();
+        dataStr.site_keywords = $('#site_keywords').val();
+        dataStr.site_mail = $('#site_mail').val();
+        dataStr.site_beian = $('#site_beian').val();
+        dataStr.site_description = $('#site_description').val();
+        dataStr.site_statistic = $('#site_statistic').val();
         const data = JSON.stringify(dataStr);
         if(data){
             $.ajax({

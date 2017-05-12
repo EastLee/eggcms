@@ -3857,3 +3857,62 @@
 2017-05-12 19:46:12,078 INFO 79116 [egg-watcher:app] watcher start success
 2017-05-12 19:46:12,088 INFO 79116 [egg-mysql] instance[0] status OK, rds currentTime: Fri May 12 2017 19:46:12 GMT+0800 (CST)
 2017-05-12 19:46:14,295 INFO 79116 [egg-view-nunjucks] loading templates from ["/Users/wscart/Sites/node/eggcms/app/view"]
+2017-05-12 19:52:04,008 INFO 79373 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-05-12 19:52:04,070 INFO 79373 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-12 19:52:04,070 INFO 79373 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-12 19:52:04,087 INFO 79373 [egg-mysql] connecting root@127.0.0.1:3306/eggcms_dev
+2017-05-12 19:52:04,192 INFO 79373 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-12 19:52:04,194 INFO 79373 [egg-security] use csrf middleware
+2017-05-12 19:52:04,195 INFO 79373 [egg-security] use methodnoallow middleware
+2017-05-12 19:52:04,195 INFO 79373 [egg-security] use noopen middleware
+2017-05-12 19:52:04,195 INFO 79373 [egg-security] use nosniff middleware
+2017-05-12 19:52:04,196 INFO 79373 [egg-security] use xssProtection middleware
+2017-05-12 19:52:04,196 INFO 79373 [egg-security] use xframe middleware
+2017-05-12 19:52:04,196 INFO 79373 [egg-security] compose 6 middlewares into one security middleware
+2017-05-12 19:52:04,237 INFO 79373 [egg-watcher:app] watcher start success
+2017-05-12 19:52:04,247 INFO 79373 [egg-mysql] instance[0] status OK, rds currentTime: Fri May 12 2017 19:52:04 GMT+0800 (CST)
+2017-05-12 19:52:07,187 INFO 79373 [egg-view-nunjucks] loading templates from ["/Users/wscart/Sites/node/eggcms/app/view"]
+2017-05-12 19:52:38,967 INFO 79384 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-05-12 19:52:38,995 INFO 79384 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-12 19:52:38,995 INFO 79384 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-12 19:52:39,009 INFO 79384 [egg-mysql] connecting root@127.0.0.1:3306/eggcms_dev
+2017-05-12 19:52:39,085 INFO 79384 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-12 19:52:39,087 INFO 79384 [egg-security] use csrf middleware
+2017-05-12 19:52:39,088 INFO 79384 [egg-security] use methodnoallow middleware
+2017-05-12 19:52:39,088 INFO 79384 [egg-security] use noopen middleware
+2017-05-12 19:52:39,089 INFO 79384 [egg-security] use nosniff middleware
+2017-05-12 19:52:39,089 INFO 79384 [egg-security] use xssProtection middleware
+2017-05-12 19:52:39,089 INFO 79384 [egg-security] use xframe middleware
+2017-05-12 19:52:39,089 INFO 79384 [egg-security] compose 6 middlewares into one security middleware
+2017-05-12 19:52:39,126 INFO 79384 [egg-watcher:app] watcher start success
+2017-05-12 19:52:39,137 INFO 79384 [egg-mysql] instance[0] status OK, rds currentTime: Fri May 12 2017 19:52:39 GMT+0800 (CST)
+2017-05-12 20:02:07,440 INFO 79569 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-05-12 20:02:07,470 INFO 79569 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-12 20:02:07,470 INFO 79569 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-12 20:02:07,480 INFO 79569 [egg-mysql] connecting root@127.0.0.1:3306/eggcms_dev
+2017-05-12 20:02:07,583 INFO 79569 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-12 20:02:07,585 INFO 79569 [egg-security] use csrf middleware
+2017-05-12 20:02:07,586 INFO 79569 [egg-security] use methodnoallow middleware
+2017-05-12 20:02:07,586 INFO 79569 [egg-security] use noopen middleware
+2017-05-12 20:02:07,587 INFO 79569 [egg-security] use nosniff middleware
+2017-05-12 20:02:07,587 INFO 79569 [egg-security] use xssProtection middleware
+2017-05-12 20:02:07,588 INFO 79569 [egg-security] use xframe middleware
+2017-05-12 20:02:07,588 INFO 79569 [egg-security] compose 6 middlewares into one security middleware
+2017-05-12 20:02:07,625 INFO 79569 [egg-watcher:app] watcher start success
+2017-05-12 20:02:07,635 INFO 79569 [egg-mysql] instance[0] status OK, rds currentTime: Fri May 12 2017 20:02:07 GMT+0800 (CST)
+2017-05-12 20:02:24,089 INFO 79569 [egg-view-nunjucks] loading templates from ["/Users/wscart/Sites/node/eggcms/app/view"]
+2017-05-12 20:31:38,249 INFO 80043 [egg:logger] init all loggers with options: {"dir":"/Users/wscart/Sites/node/eggcms/logs/eggcms","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","outputJSON":false,"buffer":true,"appLogName":"eggcms-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-05-12 20:31:38,281 INFO 80043 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/clean_log.js
+2017-05-12 20:31:38,281 INFO 80043 [egg-schedule]: register schedule egg-schedule:/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator/app/schedule/rotate_by_file.js
+2017-05-12 20:31:38,293 INFO 80043 [egg-mysql] connecting root@127.0.0.1:3306/eggcms_dev
+2017-05-12 20:31:38,396 INFO 80043 [egg-static] starting static serve /public/ -> /Users/wscart/Sites/node/eggcms/app/public
+2017-05-12 20:31:38,398 INFO 80043 [egg-security] use csrf middleware
+2017-05-12 20:31:38,399 INFO 80043 [egg-security] use methodnoallow middleware
+2017-05-12 20:31:38,399 INFO 80043 [egg-security] use noopen middleware
+2017-05-12 20:31:38,400 INFO 80043 [egg-security] use nosniff middleware
+2017-05-12 20:31:38,400 INFO 80043 [egg-security] use xssProtection middleware
+2017-05-12 20:31:38,401 INFO 80043 [egg-security] use xframe middleware
+2017-05-12 20:31:38,401 INFO 80043 [egg-security] compose 6 middlewares into one security middleware
+2017-05-12 20:31:38,440 INFO 80043 [egg-watcher:app] watcher start success
+2017-05-12 20:31:38,454 INFO 80043 [egg-mysql] instance[0] status OK, rds currentTime: Fri May 12 2017 20:31:38 GMT+0800 (CST)
+2017-05-12 20:31:40,260 INFO 80043 [egg-view-nunjucks] loading templates from ["/Users/wscart/Sites/node/eggcms/app/view"]
