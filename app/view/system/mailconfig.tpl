@@ -27,34 +27,34 @@
                     <div class="form-group">
                       <label class="col-sm-3 control-label">邮件发送模式</label>
                       <div class="col-sm-6">
-                        <div class="be-radio inline">
-                          <input type="radio" checked="" name="rad3" id="rad1">
-                          <label for="rad1">SMTP 函数发送</label>
-                        </div>
+                        <select class="form-control">
+                          <option>请选择</option>
+                          <option selected="selected">SMTP 函数发送</option>
+                        </select>
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">邮件服务器</label>
                       <div class="col-sm-6">
-                        <input type="text" required="" class="form-control">
+                        <input type="text" required="" class="form-control" value="{{ mail_server }}">
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">邮件发送端口</label>
                       <div class="col-sm-6">
-                        <input type="num" required="" class="form-control">
+                        <input type="num" required="" class="form-control" value="{{ mail_port }}">
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">发件人地址</label>
                       <div class="col-sm-6">
-                        <input type="text" required="" class="form-control">
+                        <input type="text" required="" class="form-control" value="{{ mail_from }}">
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">发件人名称</label>
                       <div class="col-sm-6">
-                        <input type="text" required="" class="form-control">
+                        <input type="text" required="" class="form-control" value="{{ mail_fname }}">
                       </div>
                     </div>
                     <div class="form-group">
@@ -73,13 +73,13 @@
                     <div class="form-group">
                       <label class="col-sm-3 control-label">验证用户名</label>
                       <div class="col-sm-6">
-                        <input type="text" required="" class="form-control">
+                        <input type="text" required="" class="form-control" value="{{ mail_user }}">
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">密码</label>
                       <div class="col-sm-6">
-                        <input type="password" class="form-control">
+                        <input type="password" class="form-control" value="{{ mail_password }}">
                       </div>
                     </div>
                     <div class="form-group">

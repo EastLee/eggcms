@@ -37,43 +37,37 @@
                     <div class="form-group">
                       <label class="col-sm-3 control-label">允许上传附件大小</label>
                       <div class="col-sm-6">
-                        <input type="text" required="" placeholder="20240KB" class="form-control">
+                        <input type="text" required="" placeholder="20240KB" class="form-control" value="{{ data.site_sitename }}">
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">允许上传附件类型</label>
                       <div class="col-sm-6">
-                        <input type="text" required="" placeholder="jpg|jpeg|gif|bmp|png|doc|docx|xls|xlsx|ppt|pptx|pdf|txt|rar|zip|swf" class="form-control">
+                        <input type="text" required="" placeholder="jpg|jpeg|gif|bmp|png|doc|docx|xls|xlsx|ppt|pptx|pdf|txt|rar|zip|swf" class="form-control" value="{{ data.site_sitename }}">
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">前台允许上传附件大小</label>
                       <div class="col-sm-6">
-                        <input type="text" required="" placeholder="200KB" class="form-control">
+                        <input type="text" required="" placeholder="200KB" class="form-control" value="{{ data.site_sitename }}">
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">前台允许上传附件类型</label>
                       <div class="col-sm-6">
-                        <input type="text" required="" placeholder="jpg|jpeg|gif" class="form-control">
-                      </div>
-                    </div>
-                    <div class="form-group">
-                      <label class="col-sm-3 control-label">保存远程图片过滤域名</label>
-                      <div class="col-sm-6">
-                        <input type="text" required="" class="form-control">
+                        <input type="text" required="" placeholder="jpg|jpeg|gif" class="form-control" value="{{ data.site_sitename }}">
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">用户名</label>
                       <div class="col-sm-6">
-                        <input type="text" required="" class="form-control">
+                        <input type="text" required="" class="form-control" value="{{ data.site_sitename }}">
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">密码</label>
                       <div class="col-sm-6">
-                        <input type="text" required="" class="form-control">
+                        <input type="text" required="" class="form-control" value="{{ data.site_sitename }}">
                       </div>
                     </div>
                     <div class="form-group">

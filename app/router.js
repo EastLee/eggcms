@@ -10,8 +10,9 @@ module.exports = app => {
   app.get('/custompage/add', 'custompage.index.add');
   app.get('/attachment', 'attachment.index.index');
   app.get('/setbasic', 'system.siteconfig.index');
+  app.get('/setbasic/update/:data', 'system.siteconfig.update');
   app.get('/setmail', 'system.mailconfig.index');
-  app.get('/setattachment', 'system.attachmentconfig.index');
+  app.get('/setatt', 'system.attconfig.index');
   app.get('/columnclassify', 'system.columnclassify.index.index');
   app.get('/columnclassify/add', 'system.columnclassify.index.add');
   app.get('/usermanage', 'system.usermanage.index.index');

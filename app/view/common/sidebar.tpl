@@ -32,7 +32,7 @@
                       </li>
                       <li><a href="/setmail">邮箱配置</a>
                       </li>
-                      <li><a href="/setattachment">附件配置</a>
+                      <li><a href="/setatt">附件配置</a>
                       </li>
                     </ul>
                   </li>

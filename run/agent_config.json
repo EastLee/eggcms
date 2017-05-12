@@ -149,9 +149,9 @@
       "description": "",
       "private": true,
       "dependencies": {
-        "egg": "^1.2.1",
+        "egg": "^1.3.0",
         "egg-mysql": "^3.0.0",
-        "egg-view-nunjucks": "^2.1.0"
+        "egg-view-nunjucks": "^2.1.1"
       },
       "devDependencies": {
         "autod": "^2.8.0",
@@ -228,7 +228,9 @@
       "coreLogName": "egg-web.log",
       "agentLogName": "egg-agent.log",
       "errorLogName": "common-error.log",
-      "coreLogger": {},
+      "coreLogger": {
+        "consoleLevel": "WARN"
+      },
       "type": "agent"
     },
     "httpclient": {
@@ -263,7 +265,7 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.2.1@egg/config/plugin.js",
+      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg/config/plugin.js",
       "path": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg-onerror",
       "version": "1.3.0"
     },
@@ -274,7 +276,7 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.2.1@egg/config/plugin.js",
+      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg/config/plugin.js",
       "path": "/Users/wscart/Sites/node/eggcms/node_modules/.2.1.0@egg-session",
       "version": "2.1.0"
     },
@@ -285,7 +287,7 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.2.1@egg/config/plugin.js",
+      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg/config/plugin.js",
       "path": "/Users/wscart/Sites/node/eggcms/node_modules/.1.1.1@egg-i18n",
       "version": "1.1.1"
     },
@@ -296,7 +298,7 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.2.1@egg/config/plugin.js",
+      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg/config/plugin.js",
       "path": "/Users/wscart/Sites/node/eggcms/node_modules/.2.1.2@egg-watcher",
       "version": "2.1.2"
     },
@@ -307,7 +309,7 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.2.1@egg/config/plugin.js",
+      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg/config/plugin.js",
       "path": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg-multipart",
       "version": "1.3.0"
     },
@@ -320,7 +322,7 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.2.1@egg/config/plugin.js",
+      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg/config/plugin.js",
       "path": "/Users/wscart/Sites/node/eggcms/node_modules/.1.9.0@egg-security",
       "version": "1.9.0"
     },
@@ -335,7 +337,7 @@
       "env": [
         "local"
       ],
-      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.2.1@egg/config/plugin.js",
+      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg/config/plugin.js",
       "path": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg-development",
       "version": "1.3.0"
     },
@@ -346,7 +348,7 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.2.1@egg/config/plugin.js",
+      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg/config/plugin.js",
       "path": "/Users/wscart/Sites/node/eggcms/node_modules/.2.3.0@egg-schedule",
       "version": "2.3.0"
     },
@@ -359,7 +361,7 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.2.1@egg/config/plugin.js",
+      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg/config/plugin.js",
       "path": "/Users/wscart/Sites/node/eggcms/node_modules/.2.2.2@egg-logrotator",
       "version": "2.2.2"
     },
@@ -370,7 +372,7 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.2.1@egg/config/plugin.js",
+      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg/config/plugin.js",
       "path": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg-static",
       "version": "1.3.0"
     },
@@ -383,7 +385,7 @@
         "security"
       ],
       "env": [],
-      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.2.1@egg/config/plugin.js",
+      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg/config/plugin.js",
       "path": "/Users/wscart/Sites/node/eggcms/node_modules/.1.0.0@egg-jsonp",
       "version": "1.0.0"
     },
@@ -394,7 +396,7 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.2.1@egg/config/plugin.js",
+      "from": "/Users/wscart/Sites/node/eggcms/node_modules/.1.3.0@egg/config/plugin.js",
       "path": "/Users/wscart/Sites/node/eggcms/node_modules/.1.1.0@egg-view",
       "version": "1.1.0"
     },
@@ -409,8 +411,8 @@
       "optionalDependencies": [],
       "env": [],
       "from": "/Users/wscart/Sites/node/eggcms/config/plugin.js",
-      "path": "/Users/wscart/Sites/node/eggcms/node_modules/.2.1.0@egg-view-nunjucks",
-      "version": "2.1.0"
+      "path": "/Users/wscart/Sites/node/eggcms/node_modules/.2.1.1@egg-view-nunjucks",
+      "version": "2.1.1"
     },
     "mysql": {
       "enable": true,
